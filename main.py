@@ -31,4 +31,5 @@ for item in download_list:
 # upload
 for item in download_list:
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
-    subprocess.run(f"bash upload.sh {item["filename"]} {url} {args.BUZZHEAVIER_ID}", shell=True, text=True)
+    bzid = f'"Authorization: Bearer {args.BUZZHEAVIER_ID}"'
+    subprocess.run(f"bash upload.sh {item["filename"]} {url} {bzid}", shell=True, text=True)
