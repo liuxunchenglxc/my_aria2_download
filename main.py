@@ -14,7 +14,7 @@ args = parser.parse_args()
 # download
 download_list = [
     {
-        "url": "https://www.war.gov/medialink/ufo/061226/release_03/release_03_documents.zip",
+        "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/release_03_documents.zip",
         "filename": "ufo_release_03_documents.zip",
         "note": "美国战争部UFO第三批公开文档",
     },
