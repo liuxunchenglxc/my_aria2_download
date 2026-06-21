@@ -2,6 +2,7 @@ from encodings.base64_codec import base64_encode
 import subprocess
 import argparse
 import base64
+from get_cook import download_cook
 
 parser = argparse.ArgumentParser(description="")
 parser.add_argument("--BUZZHEAVIER_ID", required=True, help="BUZZHEAVIER_ID")
@@ -11,26 +12,37 @@ args = parser.parse_args()
 def add_quo(s):
     return '"' + s + '"'
 
+############################
+
 # setup
+download_cook(args.BUZZHEAVIER_ID)
 # subprocess.run("bash setup.sh", shell=True, text=True)
+
+#############################
 
 # download
 download_list = [
     {
-        "url": "https://www.war.gov/medialink/ufo/061226/release_03/release_03_documents.zip",
-        "filename": "ufo_release_03_documents.zip",
-        "note": "ufo_release_03",
+        "url": "https://www.youtube.com/watch?v=CRo8QkXVDvA&pp=0gcJCT8LAYcqIYzv",
+        "filename": "CRo8QkXVDvA.mkv",
+        "note": "《玄幻：开局一条蛇，我无限进化》第1~64集",
+        "type": "ytdlp"
     },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",
     #     "note": "ufo_release_03",
+    #     "type": "aria2"
     # },
 ]
 
 for item in download_list:
-    subprocess.run(f"bash download.sh {item["url"]} {add_quo(item["filename"])}", shell=True, text=True)
+    if item["type"] == "aria2":
+        subprocess.run(f"bash aria2_download.sh {item["url"]} {add_quo(item["filename"])}", shell=True, text=True)
+    elif item["type"] == "ytdlp":
+        subprocess.run(f"bash ytdlp_download.sh {item["url"]} {add_quo(item["filename"])}", shell=True, text=True)
 
+####################
 
 # upload
 for item in download_list:
