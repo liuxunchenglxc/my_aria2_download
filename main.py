@@ -16,12 +16,12 @@ download_list = [
     {
         "url": "https://www.war.gov/medialink/ufo/061226/release_03/release_03_documents.zip",
         "filename": "ufo_release_03_documents.zip",
-        "note": "美国战争部UFO第三批公开文档",
+        "note": "ufo_release_03",
     },
     {
         "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
         "filename": "ufo_release_03_videos.zip",
-        "note": "美国战争部UFO第三批公开视频",
+        "note": "ufo_release_03",
     },
 ]
 
@@ -32,4 +32,4 @@ for item in download_list:
 for item in download_list:
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
     bzid = f'"Authorization: Bearer {args.BUZZHEAVIER_ID}"'
-    subprocess.run(f"bash upload.sh {item["filename"]} {url} {bzid}", shell=True, text=True)
+    subprocess.run(f"bash upload.sh {'"' + item["filename"] + '"'} {url} {bzid}", shell=True, text=True)
