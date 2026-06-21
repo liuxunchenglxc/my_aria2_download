@@ -11,7 +11,7 @@ args = parser.parse_args()
 ############################
 
 # setup
-subprocess.run("bash setup.sh", shell=True, text=True)
+subprocess.run(["bash", "setup.sh"], text=True)
 download_cook(args.BUZZHEAVIER_ID)
 
 #############################
