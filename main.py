@@ -1,4 +1,3 @@
-from encodings.base64_codec import base64_encode
 import subprocess
 import argparse
 import base64
@@ -8,9 +7,6 @@ parser = argparse.ArgumentParser(description="")
 parser.add_argument("--BUZZHEAVIER_ID", required=True, help="BUZZHEAVIER_ID")
 
 args = parser.parse_args()
-
-def add_quo(s):
-    return '"' + s + '"'
 
 ############################
 
@@ -38,9 +34,9 @@ download_list = [
 
 for item in download_list:
     if item["type"] == "aria2":
-        subprocess.run(f"bash aria2_download.sh {item["url"]} {add_quo(item["filename"])}", shell=True, text=True)
+        subprocess.run(["bash", "aria2_download.sh", item["url"], item["filename"]], text=True)
     elif item["type"] == "ytdlp":
-        subprocess.run(f"bash ytdlp_download.sh {item["url"]} {add_quo(item["filename"])}", shell=True, text=True)
+        subprocess.run(["bash", "ytdlp_download.sh", item["url"], item["filename"]], text=True)
 
 ####################
 
@@ -48,4 +44,4 @@ for item in download_list:
 for item in download_list:
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
     bzid = f"Authorization: Bearer {args.BUZZHEAVIER_ID}"
-    subprocess.run(f"bash upload.sh {add_quo(item["filename"])} {add_quo(url)} {add_quo(bzid)}", shell=True, text=True)
+    subprocess.run(["bash", "upload.sh", item["filename"], url, bzid], text=True)
