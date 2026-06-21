@@ -28,8 +28,11 @@ download_list = [
 for item in download_list:
     subprocess.run(f"bash download.sh {item["url"]} {item["filename"]}", shell=True, text=True)
 
+def add_quo(s):
+    return '"' + s + '"'
+
 # upload
 for item in download_list:
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
     bzid = f"Authorization: Bearer {args.BUZZHEAVIER_ID}"
-    subprocess.run(f"bash upload.sh {'"' + item["filename"] + '"'} {url} {'"' + bzid + '"'}", shell=True, text=True)
+    subprocess.run(f"bash upload.sh {add_quo(item["filename"])} {add_quo(url)} {add_quo(bzid)}", shell=True, text=True)
