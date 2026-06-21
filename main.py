@@ -20,7 +20,6 @@ download_list = [
         "url": "https://www.war.gov/medialink/ufo/061226/release_03/release_03_documents.zip",
         "filename": "ufo_release_03_documents.zip",
         "note": "ufo_release_03",
-        "refer": "https://www.war.gov/UFO/release/03/",
     },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
@@ -30,7 +29,7 @@ download_list = [
 ]
 
 for item in download_list:
-    subprocess.run(f"bash download.sh {item["url"]} {add_quo(item["filename"])} {item["refer"]}", shell=True, text=True)
+    subprocess.run(f"bash download.sh {item["url"]} {add_quo(item["filename"])}", shell=True, text=True)
 
 
 # upload
