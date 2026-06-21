@@ -13,6 +13,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v6
 
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: lts
+
       - uses: FedericoCarboni/setup-ffmpeg@v3
         id: setup-ffmpeg
         with:

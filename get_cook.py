@@ -10,6 +10,7 @@ def get_cook_url(bzid):
     data = response.json()
     for item in data["data"]["children"]:
         if item["name"] == "cookies.txt":
+            print("get_cook_url ok!")
             return f"https://ts.buzzheavier.com/d/{item["id"]}"
     raise "Not Found cookies.txt"
 
@@ -25,3 +26,5 @@ def download_cook(bzid):
             for chunk in response.iter_content(chunk_size=8192):
                 if chunk:
                     file.write(chunk)
+    
+    print("download_cook ok!")
