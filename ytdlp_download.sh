@@ -11,7 +11,7 @@ yt-dlp_linux \
   --impersonate chrome \
   --write-subs \
   --write-auto-subs \
-  --sub-langs "zh.*,en.*" \
+  --sub-langs "zh-[a-zA-Z]+,en" \
   --embed-thumbnail \
   --embed-metadata \
   --audio-quality 0 \
