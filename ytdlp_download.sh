@@ -14,6 +14,9 @@ yt-dlp_linux \
   --sub-langs "zh-[a-zA-Z]+,en" \
   --embed-thumbnail \
   --embed-metadata \
+  --embed-subs \
+  --embed-chapters \
+  --embed-info-json \
   --audio-quality 0 \
   --merge-output-format mkv \
   -o "$name" \
