@@ -18,10 +18,16 @@ download_cook(args.BUZZHEAVIER_ID)
 
 # download
 download_list = [
+    # {
+    #     "url": "https://www.youtube.com/watch?v=CRo8QkXVDvA&pp=0gcJCT8LAYcqIYzv",
+    #     "filename": "CRo8QkXVDvA.mkv",
+    #     "note": "《玄幻：开局一条蛇，我无限进化》第1~64集",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=CRo8QkXVDvA&pp=0gcJCT8LAYcqIYzv",
-        "filename": "CRo8QkXVDvA.mkv",
-        "note": "《玄幻：开局一条蛇，我无限进化》第1~64集",
+        "url": "https://www.youtube.com/watch?v=KQjvaS1uLrc",
+        "filename": "KQjvaS1uLrc.mkv",
+        "note": "《玄学大佬回京：一卦算哭满朝文武》第1~63集",
         "type": "ytdlp"
     },
     # {

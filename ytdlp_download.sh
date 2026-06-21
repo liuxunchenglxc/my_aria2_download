@@ -11,7 +11,7 @@ echo "name="$2
   --impersonate chrome \
   --write-subs \
   --write-auto-subs \
-  --sub-langs "zh-Hans,en" \
+  --sub-langs "zh.*,en.*" \
   --embed-thumbnail \
   --embed-metadata \
   --audio-quality 0 \
