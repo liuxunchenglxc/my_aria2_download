@@ -18,24 +18,24 @@ download_cook(args.BUZZHEAVIER_ID)
 
 # download
 download_list = [
-    # {
-    #     "url": "https://www.youtube.com/watch?v=CRo8QkXVDvA&pp=0gcJCT8LAYcqIYzv",
-    #     "filename": "CRo8QkXVDvA.mkv",
-    #     "note": "《玄幻：开局一条蛇，我无限进化》第1~64集",
-    #     "type": "ytdlp"
-    # },
+    {
+        "url": "https://www.youtube.com/watch?v=6AmcRMj3AM0",
+        "filename": "CRo8QkXVDvA.mkv",
+        "note": "《开局一条蛇，我无限进化》第1~83集",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://www.youtube.com/watch?v=KQjvaS1uLrc",
     #     "filename": "KQjvaS1uLrc.mkv",
     #     "note": "《玄学大佬回京：一卦算哭满朝文武》第1~63集",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=zXy7BNbogb8",
-        "filename": "zXy7BNbogb8.mkv",
-        "note": "《从死囚营崛起》第1~2季",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=zXy7BNbogb8",
+    #     "filename": "zXy7BNbogb8.mkv",
+    #     "note": "《从死囚营崛起》第1~2季",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",
