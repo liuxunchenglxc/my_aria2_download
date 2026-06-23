@@ -24,18 +24,18 @@ download_list = [
     #     "note": "《开局一条蛇，我无限进化》第1~83集",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=qMDJH78tn0I",
-        "filename": "qMDJH78tn0I.mkv",
-        "note": "《玄学大佬回京：一卦算哭满朝文武2》第1~81集",
-        "type": "ytdlp"
-    },
     # {
-    #     "url": "https://www.youtube.com/watch?v=zXy7BNbogb8",
-    #     "filename": "zXy7BNbogb8.mkv",
-    #     "note": "《从死囚营崛起》第1~2季",
+    #     "url": "https://www.youtube.com/watch?v=qMDJH78tn0I",
+    #     "filename": "qMDJH78tn0I.mkv",
+    #     "note": "《玄学大佬回京：一卦算哭满朝文武2》第1~81集",
     #     "type": "ytdlp"
     # },
+    {
+        "url": "https://www.youtube.com/watch?v=KacjAmJmgc4",
+        "filename": "KacjAmJmgc4.mkv",
+        "note": "《从死囚营崛起》第1~3季",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",
