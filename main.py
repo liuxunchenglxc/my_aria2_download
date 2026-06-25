@@ -61,12 +61,12 @@ download_list = [
     #     "note": "《全宗起飞之大佬到宗门当弟子》第2季",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=qYavIGqk_Ds",
-        "filename": "qYavIGqkDs.mkv",
-        "note": "《超市通异界，我在修真各界搞倒卖》第1~77集",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=qYavIGqk_Ds",
+    #     "filename": "qYavIGqkDs.mkv",
+    #     "note": "《超市通异界，我在修真各界搞倒卖》第1~77集",
+    #     "type": "ytdlp"
+    # },
     {
         "url": "https://www.youtube.com/watch?v=UnxoZC4-zRE",
         "filename": "UnxoZC4zRE.mkv",
@@ -92,7 +92,10 @@ def upload(item):
     bzid = f"Authorization: Bearer {args.BUZZHEAVIER_ID}"
     subprocess.run(["bash", "upload.sh", item["filename"], url, bzid], text=True)
     # 删除上传过的文件
-    os.remove(item["filename"])
+    try:
+        os.remove(item["filename"])
+    except:
+        pass
 
 for item in download_list:
     if item["type"] == "aria2":
