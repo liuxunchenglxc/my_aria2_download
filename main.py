@@ -67,16 +67,22 @@ download_list = [
     #     "note": "《超市通异界，我在修真各界搞倒卖》第1~77集",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=UnxoZC4-zRE",
+    #     "filename": "UnxoZC4zRE.mkv",
+    #     "note": "《普通弓箭手？我能无限叠加攻击力》第1~60集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=MWjQCaaJTxA",
+    #     "filename": "MWjQCaaJTxA.mkv",
+    #     "note": "《血量亿倍增幅，被当成废物异能》第1~77集",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=UnxoZC4-zRE",
-        "filename": "UnxoZC4zRE.mkv",
-        "note": "《普通弓箭手？我能无限叠加攻击力》第1~60集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=MWjQCaaJTxA",
-        "filename": "MWjQCaaJTxA.mkv",
-        "note": "《血量亿倍增幅，被当成废物异能》第1~77集",
+        "url": "https://www.youtube.com/watch?v=NiG7BX8dEJw",
+        "filename": "NiG7BX8dEJw.mkv",
+        "note": "《我家老祖是零零后》第1~46集",
         "type": "ytdlp"
     },
     # {

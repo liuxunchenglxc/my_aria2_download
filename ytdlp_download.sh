@@ -6,8 +6,7 @@ echo "url="$1
 echo "name="$2
 
 yt-dlp_linux \
-  --extractor-args "youtube:player_client=android,web" \
-  --cookies cookies.txt \
+  --extractor-args "youtube:player_client=android_vr,mweb,web_music,web_embedded,web_creator,android,ios,tv_simply,tv" \
   -N 4 \
   --impersonate chrome \
   --write-subs \
