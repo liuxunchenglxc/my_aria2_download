@@ -37,28 +37,46 @@ download_list = [
     #     "note": "《从死囚营崛起》第1~3季",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=m1E2MFifqJI",
+    #     "filename": "m1E2MFifqJI.mkv",
+    #     "note": "《穿成恋爱脑村姑，被祸害的全家有救了》第1~80集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=4b3DCaeMJhE",
+    #     "filename": "4b3DCaeMJhE.mkv",
+    #     "note": "《末日天灾：我用空间囤了百亿物资》第1~100集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=jG1O_nQIDOU",
+    #     "filename": "jG1OnQIDOU.mkv",
+    #     "note": "《全宗起飞之大佬到宗门当弟子》第1~54集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=kYuWmQrcN5U",
+    #     "filename": "kYuWmQrcN5U.mkv",
+    #     "note": "《全宗起飞之大佬到宗门当弟子》第2季",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=m1E2MFifqJI",
-        "filename": "m1E2MFifqJI.mkv",
-        "note": "《穿成恋爱脑村姑，被祸害的全家有救了》第1~80集",
+        "url": "https://www.youtube.com/watch?v=qYavIGqk_Ds",
+        "filename": "qYavIGqkDs.mkv",
+        "note": "《超市通异界，我在修真各界搞倒卖》第1~77集",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=4b3DCaeMJhE",
-        "filename": "4b3DCaeMJhE.mkv",
-        "note": "《末日天灾：我用空间囤了百亿物资》第1~100集",
+        "url": "https://www.youtube.com/watch?v=UnxoZC4-zRE",
+        "filename": "UnxoZC4zRE.mkv",
+        "note": "《普通弓箭手？我能无限叠加攻击力》第1~60集",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=jG1O_nQIDOU",
-        "filename": "jG1OnQIDOU.mkv",
-        "note": "《全宗起飞之大佬到宗门当弟子》第1~54集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=kYuWmQrcN5U",
-        "filename": "kYuWmQrcN5U.mkv",
-        "note": "《全宗起飞之大佬到宗门当弟子》第2季",
+        "url": "https://www.youtube.com/watch?v=MWjQCaaJTxA",
+        "filename": "MWjQCaaJTxA.mkv",
+        "note": "《血量亿倍增幅，被当成废物异能》第1~77集",
         "type": "ytdlp"
     },
     # {
