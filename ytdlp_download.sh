@@ -7,7 +7,7 @@ echo "name="$2
 
 # tv,web_music,web_embedded,web_creator,mweb
 
-yt-dlp_linux -v \
+yt-dlp_linux \
   --extractor-args "youtube:player_client=mweb" \
   --cookies cookies.txt \
   -N 4 \
