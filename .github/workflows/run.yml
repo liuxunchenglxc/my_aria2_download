@@ -28,7 +28,7 @@ jobs:
           cd bgutil-ytdlp-pot-provider/server/
           deno install --allow-scripts=npm:canvas --frozen
           cd node_modules
-          deno run --allow-env --allow-net --allow-ffi=. --allow-read=. ../src/main.ts
+          nohup deno run --allow-env --allow-net --allow-ffi=. --allow-read=. ../src/main.ts &
           cd ../../..
           # cd ../..
           # mkdir -p /github/home/
