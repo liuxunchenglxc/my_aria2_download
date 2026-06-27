@@ -91,10 +91,16 @@ download_list = [
     #     "note": "《苟道修仙记》第2季",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=C2U0aseHIpk",
+    #     "filename": "C2U0aseHIpk.mkv",
+    #     "note": "《穿越60年代，觉醒超市系统》第1~92集",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=C2U0aseHIpk",
-        "filename": "C2U0aseHIpk.mkv",
-        "note": "《穿越60年代，觉醒超市系统》第1~92集",
+        "url": "https://www.youtube.com/watch?v=VHHRzbhzqS8",
+        "filename": "VHHRzbhzqS8.mkv",
+        "note": "《我家后墙通边关》第1~76集",
         "type": "ytdlp"
     },
     # {
