@@ -79,16 +79,22 @@ download_list = [
     #     "note": "《血量亿倍增幅，被当成废物异能》第1~77集",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=-JMVT7fRsR4",
+    #     "filename": "JMVT7fRsR4.mkv",
+    #     "note": "《苟道修仙记》第1~79集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=CKovPtf-di4",
+    #     "filename": "CKovPtfdi4.mkv",
+    #     "note": "《苟道修仙记》第2季",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=-JMVT7fRsR4",
-        "filename": "JMVT7fRsR4.mkv",
-        "note": "《苟道修仙记》第1~79集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=CKovPtf-di4",
-        "filename": "CKovPtfdi4.mkv",
-        "note": "《苟道修仙记》第2季",
+        "url": "https://www.youtube.com/watch?v=C2U0aseHIpk",
+        "filename": "C2U0aseHIpk.mkv",
+        "note": "《穿越60年代，觉醒超市系统》第1~92集",
         "type": "ytdlp"
     },
     # {
@@ -100,7 +106,7 @@ download_list = [
 ]
 
 def upload(item):
-    url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
+    url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}'#?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
     bzid = f"Authorization: Bearer {args.BUZZHEAVIER_ID}"
     subprocess.run(["bash", "upload.sh", item["filename"], url, bzid], text=True)
     # 删除上传过的文件
