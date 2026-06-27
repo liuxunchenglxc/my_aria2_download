@@ -97,10 +97,16 @@ download_list = [
     #     "note": "《穿越60年代，觉醒超市系统》第1~92集",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=VHHRzbhzqS8",
+    #     "filename": "VHHRzbhzqS8.mkv",
+    #     "note": "《我家后墙通边关》第1~76集",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=VHHRzbhzqS8",
-        "filename": "VHHRzbhzqS8.mkv",
-        "note": "《我家后墙通边关》第1~76集",
+        "url": "https://www.youtube.com/watch?v=QEFLi2J2Rtw",
+        "filename": "QEFLi2J2Rtw.mkv",
+        "note": "《异世雇工之山庄通异界古人来打工》第1~80集",
         "type": "ytdlp"
     },
     # {

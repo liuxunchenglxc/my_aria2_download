@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           repository: 'Brainicism/bgutil-ytdlp-pot-provider'
-          path: 'bgutil-ytdlp-pot-provider'
+          path: '/github/home/bgutil-ytdlp-pot-provider'
           fetch-depth: 1
 
       - name: Run Python Script
