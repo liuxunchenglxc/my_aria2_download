@@ -103,12 +103,24 @@ download_list = [
     #     "note": "《我家后墙通边关》第1~76集",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=QEFLi2J2Rtw",
+    #     "filename": "QEFLi2J2Rtw.mkv",
+    #     "note": "《异世雇工之山庄通异界古人来打工》第1~80集",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=QEFLi2J2Rtw",
-        "filename": "QEFLi2J2Rtw.mkv",
-        "note": "《异世雇工之山庄通异界古人来打工》第1~80集",
+        "url": "https://www.youtube.com/watch?v=wTplLSQtVw4",
+        "filename": "wTplLSQtVw4.mkv",
+        "note": "《开局大帝：我的弟子全是逆天体质》第1~134集",
         "type": "ytdlp"
     },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=jkVyXJqGfmk",
+    #     "filename": "jkVyXJqGfmk.mkv",
+    #     "note": "《开局大帝：我的弟子全是逆天体质》第2季",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",

@@ -25,6 +25,9 @@ jobs:
       
       - name: Deploy provider to default path
         run: |
+          cd bgutil-ytdlp-pot-provider/server/
+          deno install --allow-scripts=npm:canvas --frozen
+          cd ../..
           mkdir -p /github/home/
           mv bgutil-ytdlp-pot-provider /github/home/bgutil-ytdlp-pot-provider
 
