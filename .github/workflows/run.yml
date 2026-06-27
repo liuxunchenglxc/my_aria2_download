@@ -15,6 +15,13 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+      
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          repository: 'Brainicism/bgutil-ytdlp-pot-provider'
+          path: 'bgutil-ytdlp-pot-provider'
+          fetch-depth: 1
 
       - name: Run Python Script
         run: |

@@ -80,9 +80,15 @@ download_list = [
     #     "type": "ytdlp"
     # },
     {
-        "url": "https://www.youtube.com/watch?v=NiG7BX8dEJw",
-        "filename": "NiG7BX8dEJw.mkv",
-        "note": "《我家老祖是零零后》第1~46集",
+        "url": "https://www.youtube.com/watch?v=-JMVT7fRsR4",
+        "filename": "JMVT7fRsR4.mkv",
+        "note": "《苟道修仙记》第1~79集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=CKovPtf-di4",
+        "filename": "CKovPtfdi4.mkv",
+        "note": "《苟道修仙记》第2季",
         "type": "ytdlp"
     },
     # {

@@ -6,7 +6,7 @@ echo "url="$1
 echo "name="$2
 
 yt-dlp_linux \
-  --extractor-args "youtube:player_client=android_vr,mweb,web_music,web_embedded,web_creator,android,ios,tv_simply,tv,web_safari,web" \
+  --extractor-args "youtube:player_client=android_vr,mweb,web_music,web_embedded,web_creator,android,ios,tv_simply,tv,web_safari,web;youtubepot-bgutilscript:server_home=bgutil-ytdlp-pot-provider/server" \
   --cookies cookies.txt \
   -N 4 \
   --impersonate chrome \
