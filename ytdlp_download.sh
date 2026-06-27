@@ -5,8 +5,10 @@ echo "start yt-dlp_linux"
 echo "url="$1
 echo "name="$2
 
+# tv,web_music,web_embedded,web_creator,mweb
+
 yt-dlp_linux -v \
-  --extractor-args "youtube:player_client=mweb,web_music,web_embedded,tv,web_creator,web_safari,web" \
+  --extractor-args "youtube:player_client=mweb" \
   --cookies cookies.txt \
   -N 4 \
   --impersonate chrome \
