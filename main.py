@@ -115,18 +115,24 @@ download_list = [
     #     "note": "《开局大帝：我的弟子全是逆天体质》第1~134集",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=jkVyXJqGfmk",
-        "filename": "jkVyXJqGfmk.mkv",
-        "note": "《开局大帝：我的弟子全是逆天体质》第2季",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=jkVyXJqGfmk",
+    #     "filename": "jkVyXJqGfmk.mkv",
+    #     "note": "《开局大帝：我的弟子全是逆天体质》第2季",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",
     #     "note": "ufo_release_03",
     #     "type": "aria2"
     # },
+    {
+        "url": "https://abra--5e4bd524.api.cosmic-crab.buzz/f5c2c71aa5e65c406e44a9a41157d1951e25e791/Major%20Ed%20Dames%20-%20Remote%20Viewing%20%284-Disc%29~arch/Major%20Ed%20Dames%20-%20Remote%20Viewing%20%284-Disc%29.zip?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODI4MjIwMDUsInJhdGUiOiI1TSIsInJvbGUiOiJmcmVlIiwic2Vzc2lvbklEIjoiTVRjNE1qY3pOVFUzT0h4T2QzZEJUa1prVVU1cVRYcFhSVkpMVjFWU1NsZEdRbGxXUkVwQ1VqRkJNbE5FWkVsVVJGVXhVMVJPUlZKVlVsTlNha3BGVTFWc1ZGVkZSa0pOYkVKSlZrVTFTMDFyVGs5WFZVVTlmRW1PV013OTRmdjFpcnJ0V0l3WXFxZC1GYlRGeHNGY2tMM0pqVEo2SUxubCIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjAiLCJyZW1vdGVBZGRyZXNzIjoiMTA0LjI4LjIxNS42NyJ9.hdh4COPFYDZ6bLqp4AbUVrpUoJcC3XT7jZiOD18laVY",
+        "filename": "MajorEdDamesRemoteViewing.zip",
+        "note": "MajorEdDamesRemoteViewing",
+        "type": "aria2"
+    },
 ]
 
 def upload(item):
