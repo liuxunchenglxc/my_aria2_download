@@ -104,12 +104,6 @@ download_list = [
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=QEFLi2J2Rtw",
-    #     "filename": "QEFLi2J2Rtw.mkv",
-    #     "note": "《异世雇工之山庄通异界古人来打工》第1~80集",
-    #     "type": "ytdlp"
-    # },
-    # {
     #     "url": "https://www.youtube.com/watch?v=wTplLSQtVw4",
     #     "filename": "wTplLSQtVw4.mkv",
     #     "note": "《开局大帝：我的弟子全是逆天体质》第1~134集",
@@ -121,18 +115,90 @@ download_list = [
     #     "note": "《开局大帝：我的弟子全是逆天体质》第2季",
     #     "type": "ytdlp"
     # },
+    {
+        "url": "https://www.youtube.com/watch?v=dCZ6SaCEf9s",
+        "filename": "dCZ6SaCEf9s.mkv",
+        "note": "《带着别墅穿大唐第一季》第1~3集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=okC7kh-apQ4",
+        "filename": "okC7khapQ4.mkv",
+        "note": "《仙眼》第1~127集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=mpPAcCy2SdM",
+        "filename": "mpPAcCy2SdM.mkv",
+        "note": "《在修仙界收废品的我，悄悄无敌了》第1~138集",
+        "type": "ytdlp"
+    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=sbfcydxwdkE",
+    #     "filename": "sbfcydxwdkE.mkv",
+    #     "note": "《罪妻发配边关，罪妻开荒养出战神》第1~7季",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=DwmQrNjdJ5g",
+    #     "filename": "DwmQrNjdJ5g.mkv",
+    #     "note": "《风落西疆，从官门贵女到荒原寨主》第1~95集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=_Uf-2ZbdOso",
+    #     "filename": "Uf2ZbdOso.mkv",
+    #     "note": "《什么召唤系，我不是在请神吗？》第1~76集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=WV_LUf8-Qr0",
+    #     "filename": "WVLUf8Qr0.mkv",
+    #     "note": "《戒指通现代，古代海鲜卖爆了》第1~113集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=7xxm-QUDVGM",
+    #     "filename": "7xxmQUDVGM.mkv",
+    #     "note": "《凡人弑仙传》第1~97集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=ik3etQSH7uM",
+    #     "filename": "ik3etQSH7uM.mkv",
+    #     "note": "《少年生来不信命，横刀立马轻王侯3d版》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=0wOrPX3LfYo",
+    #     "filename": "0wOrPX3LfYo.mkv",
+    #     "note": "《生死圣皇：我一鼎打爆荒古禁忌》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=XwbGNGWnCVM",
+    #     "filename": "XwbGNGWnCVM.mkv",
+    #     "note": "《万妖图录传》第1~6季",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=tLKqv78AxSc",
+    #     "filename": "tLKqv78AxSc.mkv",
+    #     "note": "《万妖图录传》第7季",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=ATHk2s4MHk0",
+    #     "filename": "ATHk2s4MHk0.mkv",
+    #     "note": "《万妖图录之寒玉优昙(第八季）》",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",
     #     "note": "ufo_release_03",
     #     "type": "aria2"
     # },
-    {
-        "url": r"https://abra--5e4bd524.api.cosmic-crab.buzz/f5c2c71aa5e65c406e44a9a41157d1951e25e791/Major%20Ed%20Dames%20-%20Remote%20Viewing%20%284-Disc%29~arch/Major%20Ed%20Dames%20-%20Remote%20Viewing%20%284-Disc%29.zip?api-key=8acbcf1e-732c-4574-a3bf-27e6a85b86f1&download=true&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODI4MjIwMDUsInJhdGUiOiI1TSIsInJvbGUiOiJmcmVlIiwic2Vzc2lvbklEIjoiTVRjNE1qY3pOVFUzT0h4T2QzZEJUa1prVVU1cVRYcFhSVkpMVjFWU1NsZEdRbGxXUkVwQ1VqRkJNbE5FWkVsVVJGVXhVMVJPUlZKVlVsTlNha3BGVTFWc1ZGVkZSa0pOYkVKSlZrVTFTMDFyVGs5WFZVVTlmRW1PV013OTRmdjFpcnJ0V0l3WXFxZC1GYlRGeHNGY2tMM0pqVEo2SUxubCIsImRvbWFpbiI6IndlYnRvci5pbyIsImFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTQwLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTQwLjAiLCJyZW1vdGVBZGRyZXNzIjoiMTA0LjI4LjIxNS42NyJ9.hdh4COPFYDZ6bLqp4AbUVrpUoJcC3XT7jZiOD18laVY",
-        "filename": r"Major%20Ed%20Dames%20-%20Remote%20Viewing%20%284-Disc%29.zip",
-        "note": "MajorEdDamesRemoteViewing",
-        "type": "aria2"
-    },
 ]
 
 def upload(item):
