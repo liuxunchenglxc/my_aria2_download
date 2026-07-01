@@ -115,42 +115,42 @@ download_list = [
     #     "note": "《开局大帝：我的弟子全是逆天体质》第2季",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=dCZ6SaCEf9s",
-        "filename": "dCZ6SaCEf9s.mkv",
-        "note": "《带着别墅穿大唐第一季》第1~3集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=okC7kh-apQ4",
-        "filename": "okC7khapQ4.mkv",
-        "note": "《仙眼》第1~127集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=mpPAcCy2SdM",
-        "filename": "mpPAcCy2SdM.mkv",
-        "note": "《在修仙界收废品的我，悄悄无敌了》第1~138集",
-        "type": "ytdlp"
-    },
     # {
-    #     "url": "https://www.youtube.com/watch?v=sbfcydxwdkE",
-    #     "filename": "sbfcydxwdkE.mkv",
-    #     "note": "《罪妻发配边关，罪妻开荒养出战神》第1~7季",
+    #     "url": "https://www.youtube.com/watch?v=dCZ6SaCEf9s",
+    #     "filename": "dCZ6SaCEf9s.mkv",
+    #     "note": "《带着别墅穿大唐第一季》第1~3集",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=DwmQrNjdJ5g",
-    #     "filename": "DwmQrNjdJ5g.mkv",
-    #     "note": "《风落西疆，从官门贵女到荒原寨主》第1~95集",
+    #     "url": "https://www.youtube.com/watch?v=okC7kh-apQ4",
+    #     "filename": "okC7khapQ4.mkv",
+    #     "note": "《仙眼》第1~127集",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=_Uf-2ZbdOso",
-    #     "filename": "Uf2ZbdOso.mkv",
-    #     "note": "《什么召唤系，我不是在请神吗？》第1~76集",
+    #     "url": "https://www.youtube.com/watch?v=mpPAcCy2SdM",
+    #     "filename": "mpPAcCy2SdM.mkv",
+    #     "note": "《在修仙界收废品的我，悄悄无敌了》第1~138集",
     #     "type": "ytdlp"
     # },
+    {
+        "url": "https://www.youtube.com/watch?v=sbfcydxwdkE",
+        "filename": "sbfcydxwdkE.mkv",
+        "note": "《罪妻发配边关，罪妻开荒养出战神》第1~7季",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=DwmQrNjdJ5g",
+        "filename": "DwmQrNjdJ5g.mkv",
+        "note": "《风落西疆，从官门贵女到荒原寨主》第1~95集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=_Uf-2ZbdOso",
+        "filename": "Uf2ZbdOso.mkv",
+        "note": "《什么召唤系，我不是在请神吗？》第1~76集",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://www.youtube.com/watch?v=WV_LUf8-Qr0",
     #     "filename": "WVLUf8Qr0.mkv",
