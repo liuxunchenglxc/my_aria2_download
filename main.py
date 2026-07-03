@@ -133,42 +133,42 @@ download_list = [
     #     "note": "《在修仙界收废品的我，悄悄无敌了》第1~138集",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=sbfcydxwdkE",
-        "filename": "sbfcydxwdkE.mkv",
-        "note": "《罪妻发配边关，罪妻开荒养出战神》第1~7季",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=DwmQrNjdJ5g",
-        "filename": "DwmQrNjdJ5g.mkv",
-        "note": "《风落西疆，从官门贵女到荒原寨主》第1~95集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=_Uf-2ZbdOso",
-        "filename": "Uf2ZbdOso.mkv",
-        "note": "《什么召唤系，我不是在请神吗？》第1~76集",
-        "type": "ytdlp"
-    },
     # {
-    #     "url": "https://www.youtube.com/watch?v=WV_LUf8-Qr0",
-    #     "filename": "WVLUf8Qr0.mkv",
-    #     "note": "《戒指通现代，古代海鲜卖爆了》第1~113集",
+    #     "url": "https://www.youtube.com/watch?v=sbfcydxwdkE",
+    #     "filename": "sbfcydxwdkE.mkv",
+    #     "note": "《罪妻发配边关，罪妻开荒养出战神》第1~7季",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=7xxm-QUDVGM",
-    #     "filename": "7xxmQUDVGM.mkv",
-    #     "note": "《凡人弑仙传》第1~97集",
+    #     "url": "https://www.youtube.com/watch?v=DwmQrNjdJ5g",
+    #     "filename": "DwmQrNjdJ5g.mkv",
+    #     "note": "《风落西疆，从官门贵女到荒原寨主》第1~95集",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=ik3etQSH7uM",
-    #     "filename": "ik3etQSH7uM.mkv",
-    #     "note": "《少年生来不信命，横刀立马轻王侯3d版》",
+    #     "url": "https://www.youtube.com/watch?v=_Uf-2ZbdOso",
+    #     "filename": "Uf2ZbdOso.mkv",
+    #     "note": "《什么召唤系，我不是在请神吗？》第1~76集",
     #     "type": "ytdlp"
     # },
+    {
+        "url": "https://www.youtube.com/watch?v=WV_LUf8-Qr0",
+        "filename": "WVLUf8Qr0.mkv",
+        "note": "《戒指通现代，古代海鲜卖爆了》第1~113集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=7xxm-QUDVGM",
+        "filename": "7xxmQUDVGM.mkv",
+        "note": "《凡人弑仙传》第1~97集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ik3etQSH7uM",
+        "filename": "ik3etQSH7uM.mkv",
+        "note": "《少年生来不信命，横刀立马轻王侯3d版》",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://www.youtube.com/watch?v=0wOrPX3LfYo",
     #     "filename": "0wOrPX3LfYo.mkv",
