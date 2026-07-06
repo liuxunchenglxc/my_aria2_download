@@ -31,12 +31,12 @@ download_list = [
     ##     "note": "《玄学大佬回京：一卦算哭满朝文武2》第1~81集",
     ##     "type": "ytdlp"
     ## },
-    {
-        "url": "https://www.youtube.com/watch?v=Zq1B1qdF_Cg",
-        "filename": "Zq1B1qdFCg.mkv",
-        "note": "《玄学大佬回京：一卦算哭满朝文武》第3季",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=Zq1B1qdF_Cg",
+    #     "filename": "Zq1B1qdFCg.mkv",
+    #     "note": "《玄学大佬回京：一卦算哭满朝文武》第3季",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://www.youtube.com/watch?v=KacjAmJmgc4",
     #     "filename": "KacjAmJmgc4.mkv",
@@ -205,22 +205,40 @@ download_list = [
     #     "note": "ufo_release_03",
     #     "type": "aria2"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=JhA2Kg0LtoE",
+    #     "filename": "JhA2Kg0LtoE.mkv",
+    #     "note": "《赠物得长生，老头修仙记！》第1~114集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=A1uSYwfIUMo",
+    #     "filename": "A1uSYwfIUMo.mkv",
+    #     "note": "《弃女归雪，万兽加冕》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=EPJNVIuLY9E",
+    #     "filename": "EPJNVIuLY9E.mkv",
+    #     "note": "《春禾在古代，种田打猎养娃的日子》",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=JhA2Kg0LtoE",
-        "filename": "JhA2Kg0LtoE.mkv",
-        "note": "《赠物得长生，老头修仙记！》第1~114集",
+        "url": "https://www.youtube.com/watch?v=N0z13S1ivcI",
+        "filename": "N0z13S1ivcI.mkv",
+        "note": "《遮天剑神》完整版",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=A1uSYwfIUMo",
-        "filename": "A1uSYwfIUMo.mkv",
-        "note": "《弃女归雪，万兽加冕》",
+        "url": "https://www.youtube.com/watch?v=uf8Op_N9Qj0",
+        "filename": "uf8OpN9Qj0.mkv",
+        "note": "【超爽看过瘾】《仙武传》第1~267集",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=EPJNVIuLY9E",
-        "filename": "EPJNVIuLY9E.mkv",
-        "note": "《春禾在古代，种田打猎养娃的日子》",
+        "url": "https://www.youtube.com/watch?v=PO8gvmsbDrM",
+        "filename": "PO8gvmsbDrM.mkv",
+        "note": "一代天才玄脉受损成为废物，新婚之夜遭人毒害。玄天至宝，轮回镜现，逆天改命，带着仇恨与遗憾，誓要登顶力量的巅峰！",
         "type": "ytdlp"
     },
 ]
