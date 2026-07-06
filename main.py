@@ -151,48 +151,48 @@ download_list = [
     #     "note": "《什么召唤系，我不是在请神吗？》第1~76集",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=WV_LUf8-Qr0",
+    #     "filename": "WVLUf8Qr0.mkv",
+    #     "note": "《戒指通现代，古代海鲜卖爆了》第1~113集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=7xxm-QUDVGM",
+    #     "filename": "7xxmQUDVGM.mkv",
+    #     "note": "《凡人弑仙传》第1~97集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=ik3etQSH7uM",
+    #     "filename": "ik3etQSH7uM.mkv",
+    #     "note": "《少年生来不信命，横刀立马轻王侯3d版》",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=WV_LUf8-Qr0",
-        "filename": "WVLUf8Qr0.mkv",
-        "note": "《戒指通现代，古代海鲜卖爆了》第1~113集",
+        "url": "https://www.youtube.com/watch?v=0wOrPX3LfYo",
+        "filename": "0wOrPX3LfYo.mkv",
+        "note": "《生死圣皇：我一鼎打爆荒古禁忌》",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=7xxm-QUDVGM",
-        "filename": "7xxmQUDVGM.mkv",
-        "note": "《凡人弑仙传》第1~97集",
+        "url": "https://www.youtube.com/watch?v=XwbGNGWnCVM",
+        "filename": "XwbGNGWnCVM.mkv",
+        "note": "《万妖图录传》第1~6季",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ik3etQSH7uM",
-        "filename": "ik3etQSH7uM.mkv",
-        "note": "《少年生来不信命，横刀立马轻王侯3d版》",
+        "url": "https://www.youtube.com/watch?v=tLKqv78AxSc",
+        "filename": "tLKqv78AxSc.mkv",
+        "note": "《万妖图录传》第7季",
         "type": "ytdlp"
     },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=0wOrPX3LfYo",
-    #     "filename": "0wOrPX3LfYo.mkv",
-    #     "note": "《生死圣皇：我一鼎打爆荒古禁忌》",
-    #     "type": "ytdlp"
-    # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=XwbGNGWnCVM",
-    #     "filename": "XwbGNGWnCVM.mkv",
-    #     "note": "《万妖图录传》第1~6季",
-    #     "type": "ytdlp"
-    # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=tLKqv78AxSc",
-    #     "filename": "tLKqv78AxSc.mkv",
-    #     "note": "《万妖图录传》第7季",
-    #     "type": "ytdlp"
-    # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=ATHk2s4MHk0",
-    #     "filename": "ATHk2s4MHk0.mkv",
-    #     "note": "《万妖图录之寒玉优昙(第八季）》",
-    #     "type": "ytdlp"
-    # },
+    {
+        "url": "https://www.youtube.com/watch?v=ATHk2s4MHk0",
+        "filename": "ATHk2s4MHk0.mkv",
+        "note": "《万妖图录之寒玉优昙(第八季）》",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",
