@@ -25,12 +25,18 @@ download_list = [
     #     "note": "《开局一条蛇，我无限进化》第1~83集",
     #     "type": "ytdlp"
     # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=qMDJH78tn0I",
-    #     "filename": "qMDJH78tn0I.mkv",
-    #     "note": "《玄学大佬回京：一卦算哭满朝文武2》第1~81集",
-    #     "type": "ytdlp"
-    # },
+    ## {
+    ##     "url": "https://www.youtube.com/watch?v=qMDJH78tn0I",
+    ##     "filename": "qMDJH78tn0I.mkv",
+    ##     "note": "《玄学大佬回京：一卦算哭满朝文武2》第1~81集",
+    ##     "type": "ytdlp"
+    ## },
+    {
+        "url": "https://www.youtube.com/watch?v=Zq1B1qdF_Cg",
+        "filename": "Zq1B1qdFCg.mkv",
+        "note": "《玄学大佬回京：一卦算哭满朝文武》第3季",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://www.youtube.com/watch?v=KacjAmJmgc4",
     #     "filename": "KacjAmJmgc4.mkv",
@@ -49,12 +55,12 @@ download_list = [
     #     "note": "《末日天灾：我用空间囤了百亿物资》第1~100集",
     #     "type": "ytdlp"
     # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=jG1O_nQIDOU",
-    #     "filename": "jG1OnQIDOU.mkv",
-    #     "note": "《全宗起飞之大佬到宗门当弟子》第1~54集",
-    #     "type": "ytdlp"
-    # },
+    ## {
+    ##     "url": "https://www.youtube.com/watch?v=jG1O_nQIDOU",
+    ##     "filename": "jG1OnQIDOU.mkv",
+    ##     "note": "《全宗起飞之大佬到宗门当弟子》第1~54集",
+    ##     "type": "ytdlp"
+    ## },
     # {
     #     "url": "https://www.youtube.com/watch?v=kYuWmQrcN5U",
     #     "filename": "kYuWmQrcN5U.mkv",
@@ -79,11 +85,11 @@ download_list = [
     #     "note": "《血量亿倍增幅，被当成废物异能》第1~77集",
     #     "type": "ytdlp"
     # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=-JMVT7fRsR4",
-    #     "filename": "JMVT7fRsR4.mkv",
-    #     "note": "《苟道修仙记》第1~79集",
-    #     "type": "ytdlp"
+    ## {
+    ##     "url": "https://www.youtube.com/watch?v=-JMVT7fRsR4",
+    ##     "filename": "JMVT7fRsR4.mkv",
+    ##     "note": "《苟道修仙记》第1~79集",
+    ##     "type": "ytdlp"
     # },
     # {
     #     "url": "https://www.youtube.com/watch?v=CKovPtf-di4",
@@ -103,12 +109,12 @@ download_list = [
     #     "note": "《我家后墙通边关》第1~76集",
     #     "type": "ytdlp"
     # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=wTplLSQtVw4",
-    #     "filename": "wTplLSQtVw4.mkv",
-    #     "note": "《开局大帝：我的弟子全是逆天体质》第1~134集",
-    #     "type": "ytdlp"
-    # },
+    ## {
+    ##     "url": "https://www.youtube.com/watch?v=wTplLSQtVw4",
+    ##     "filename": "wTplLSQtVw4.mkv",
+    ##     "note": "《开局大帝：我的弟子全是逆天体质》第1~134集",
+    ##     "type": "ytdlp"
+    ## },
     # {
     #     "url": "https://www.youtube.com/watch?v=jkVyXJqGfmk",
     #     "filename": "jkVyXJqGfmk.mkv",
@@ -169,36 +175,54 @@ download_list = [
     #     "note": "《少年生来不信命，横刀立马轻王侯3d版》",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=0wOrPX3LfYo",
-        "filename": "0wOrPX3LfYo.mkv",
-        "note": "《生死圣皇：我一鼎打爆荒古禁忌》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=XwbGNGWnCVM",
-        "filename": "XwbGNGWnCVM.mkv",
-        "note": "《万妖图录传》第1~6季",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=tLKqv78AxSc",
-        "filename": "tLKqv78AxSc.mkv",
-        "note": "《万妖图录传》第7季",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=ATHk2s4MHk0",
-        "filename": "ATHk2s4MHk0.mkv",
-        "note": "《万妖图录之寒玉优昙(第八季）》",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=0wOrPX3LfYo",
+    #     "filename": "0wOrPX3LfYo.mkv",
+    #     "note": "《生死圣皇：我一鼎打爆荒古禁忌》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=XwbGNGWnCVM",
+    #     "filename": "XwbGNGWnCVM.mkv",
+    #     "note": "《万妖图录传》第1~6季",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=tLKqv78AxSc",
+    #     "filename": "tLKqv78AxSc.mkv",
+    #     "note": "《万妖图录传》第7季",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=ATHk2s4MHk0",
+    #     "filename": "ATHk2s4MHk0.mkv",
+    #     "note": "《万妖图录之寒玉优昙(第八季）》",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip",
     #     "filename": "ufo_release_03_videos.zip",
     #     "note": "ufo_release_03",
     #     "type": "aria2"
     # },
+    {
+        "url": "https://www.youtube.com/watch?v=JhA2Kg0LtoE",
+        "filename": "JhA2Kg0LtoE.mkv",
+        "note": "《赠物得长生，老头修仙记！》第1~114集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=A1uSYwfIUMo",
+        "filename": "A1uSYwfIUMo.mkv",
+        "note": "《弃女归雪，万兽加冕》",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=EPJNVIuLY9E",
+        "filename": "EPJNVIuLY9E.mkv",
+        "note": "《春禾在古代，种田打猎养娃的日子》",
+        "type": "ytdlp"
+    },
 ]
 
 def upload(item):
