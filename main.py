@@ -229,18 +229,24 @@ download_list = [
     #     "note": "《遮天剑神》完整版",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=uf8Op_N9Qj0",
-        "filename": "uf8OpN9Qj0.mkv",
-        "note": "【超爽看过瘾】《仙武传》第1~267集",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=uf8Op_N9Qj0",
+    #     "filename": "uf8OpN9Qj0.mkv",
+    #     "note": "【超爽看过瘾】《仙武传》第1~267集",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://www.youtube.com/watch?v=PO8gvmsbDrM",
     #     "filename": "PO8gvmsbDrM.mkv",
     #     "note": "一代天才玄脉受损成为废物，新婚之夜遭人毒害。玄天至宝，轮回镜现，逆天改命，带着仇恨与遗憾，誓要登顶力量的巅峰！",
     #     "type": "ytdlp"
     # },
+    {
+        "url": "https://www.youtube.com/watch?v=rAdYl0aHM-k",
+        "filename": "rAdYl0aHMk.mkv",
+        "note": "《今昭北猎之长姐逆袭》",
+        "type": "ytdlp"
+    },
 ]
 
 def upload(item):
