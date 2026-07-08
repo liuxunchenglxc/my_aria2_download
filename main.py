@@ -115,24 +115,36 @@ download_list = [
     ##     "note": "《开局大帝：我的弟子全是逆天体质》第1~134集",
     ##     "type": "ytdlp"
     ## },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=jkVyXJqGfmk",
-    #     "filename": "jkVyXJqGfmk.mkv",
-    #     "note": "《开局大帝：我的弟子全是逆天体质》第2季",
-    #     "type": "ytdlp"
-    # },
+    ## {
+    ##     "url": "https://www.youtube.com/watch?v=jkVyXJqGfmk",
+    ##     "filename": "jkVyXJqGfmk.mkv",
+    ##     "note": "《开局大帝：我的弟子全是逆天体质》第2季",
+    ##     "type": "ytdlp"
+    ## },
+    {
+        "url": "https://www.youtube.com/watch?v=IUkwVSqtVmQ",
+        "filename": "IUkwVSqtVmQ.mkv",
+        "note": "《开局大帝：我的弟子全是逆天体质》第3季",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://www.youtube.com/watch?v=dCZ6SaCEf9s",
     #     "filename": "dCZ6SaCEf9s.mkv",
     #     "note": "《带着别墅穿大唐第一季》第1~3集",
     #     "type": "ytdlp"
     # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=okC7kh-apQ4",
-    #     "filename": "okC7khapQ4.mkv",
-    #     "note": "《仙眼》第1~127集",
-    #     "type": "ytdlp"
-    # },
+    ## {
+    ##     "url": "https://www.youtube.com/watch?v=okC7kh-apQ4",
+    ##     "filename": "okC7khapQ4.mkv",
+    ##     "note": "《仙眼》第1~127集",
+    ##     "type": "ytdlp"
+    ## },
+    {
+        "url": "https://www.youtube.com/watch?v=R529MdZsYbk",
+        "filename": "R529MdZsYbk.mkv",
+        "note": "《仙眼》第2季",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://www.youtube.com/watch?v=mpPAcCy2SdM",
     #     "filename": "mpPAcCy2SdM.mkv",
@@ -241,10 +253,22 @@ download_list = [
     #     "note": "一代天才玄脉受损成为废物，新婚之夜遭人毒害。玄天至宝，轮回镜现，逆天改命，带着仇恨与遗憾，誓要登顶力量的巅峰！",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=rAdYl0aHM-k",
+    #     "filename": "rAdYl0aHMk.mkv",
+    #     "note": "《今昭北猎之长姐逆袭》",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=rAdYl0aHM-k",
-        "filename": "rAdYl0aHMk.mkv",
-        "note": "《今昭北猎之长姐逆袭》",
+        "url": "https://www.youtube.com/watch?v=7mq5YrvawyI",
+        "filename": "7mq5YrvawyI.mkv",
+        "note": "《独守镖宅：携哑妹度荒年》第1~97集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Rqcubm46owk",
+        "filename": "Rqcubm46owk.mkv",
+        "note": "《我家娘子惹不起》",
         "type": "ytdlp"
     },
 ]
