@@ -121,12 +121,12 @@ download_list = [
     ##     "note": "《开局大帝：我的弟子全是逆天体质》第2季",
     ##     "type": "ytdlp"
     ## },
-    {
-        "url": "https://www.youtube.com/watch?v=IUkwVSqtVmQ",
-        "filename": "IUkwVSqtVmQ.mkv",
-        "note": "《开局大帝：我的弟子全是逆天体质》第3季",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=IUkwVSqtVmQ",
+    #     "filename": "IUkwVSqtVmQ.mkv",
+    #     "note": "《开局大帝：我的弟子全是逆天体质》第3季",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://www.youtube.com/watch?v=dCZ6SaCEf9s",
     #     "filename": "dCZ6SaCEf9s.mkv",
@@ -139,12 +139,12 @@ download_list = [
     ##     "note": "《仙眼》第1~127集",
     ##     "type": "ytdlp"
     ## },
-    {
-        "url": "https://www.youtube.com/watch?v=R529MdZsYbk",
-        "filename": "R529MdZsYbk.mkv",
-        "note": "《仙眼》第2季",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=R529MdZsYbk",
+    #     "filename": "R529MdZsYbk.mkv",
+    #     "note": "《仙眼》第2季",
+    #     "type": "ytdlp"
+    # },
     # {
     #     "url": "https://www.youtube.com/watch?v=mpPAcCy2SdM",
     #     "filename": "mpPAcCy2SdM.mkv",
@@ -188,12 +188,6 @@ download_list = [
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=0wOrPX3LfYo",
-    #     "filename": "0wOrPX3LfYo.mkv",
-    #     "note": "《生死圣皇：我一鼎打爆荒古禁忌》",
-    #     "type": "ytdlp"
-    # },
-    # {
     #     "url": "https://www.youtube.com/watch?v=XwbGNGWnCVM",
     #     "filename": "XwbGNGWnCVM.mkv",
     #     "note": "《万妖图录传》第1~6季",
@@ -224,18 +218,6 @@ download_list = [
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=A1uSYwfIUMo",
-    #     "filename": "A1uSYwfIUMo.mkv",
-    #     "note": "《弃女归雪，万兽加冕》",
-    #     "type": "ytdlp"
-    # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=EPJNVIuLY9E",
-    #     "filename": "EPJNVIuLY9E.mkv",
-    #     "note": "《春禾在古代，种田打猎养娃的日子》",
-    #     "type": "ytdlp"
-    # },
-    # {
     #     "url": "https://www.youtube.com/watch?v=N0z13S1ivcI",
     #     "filename": "N0z13S1ivcI.mkv",
     #     "note": "《遮天剑神》完整版",
@@ -259,19 +241,106 @@ download_list = [
     #     "note": "《今昭北猎之长姐逆袭》",
     #     "type": "ytdlp"
     # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=7mq5YrvawyI",
+    #     "filename": "7mq5YrvawyI.mkv",
+    #     "note": "《独守镖宅：携哑妹度荒年》第1~97集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=Rqcubm46owk",
+    #     "filename": "Rqcubm46owk.mkv",
+    #     "note": "《我家娘子惹不起》",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=7mq5YrvawyI",
-        "filename": "7mq5YrvawyI.mkv",
-        "note": "《独守镖宅：携哑妹度荒年》第1~97集",
+        "url": "https://www.youtube.com/watch?v=a0u75CgXM8w",
+        "filename": "a0u75CgXM8w.mkv",
+        "note": "《帅府福崽2福星奶团来旺家，帅府全家宠不停》",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Rqcubm46owk",
-        "filename": "Rqcubm46owk.mkv",
-        "note": "《我家娘子惹不起》",
+        "url": "https://www.youtube.com/watch?v=Yoi4bk9yRCk",
+        "filename": "Yoi4bk9yRCk.mkv",
+        "note": "《我捡了个阿姐，她带我家逆天改命》",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=qbyEeolMKDk",
+        "filename": "qbyEeolMKDk.mkv",
+        "note": "《山海经之万兽图鉴》",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-5ZK79SGDNE",
+        "filename": "5ZK79SGDNE.mkv",
+        "note": "《陆家新妇不好惹》",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=oh7YflZN3ow",
+        "filename": "oh7YflZN3ow.mkv",
+        "note": "《遇强则强，仙帝来了也得跪下！》",
         "type": "ytdlp"
     },
 ]
+
+# download_list = [
+#     {
+#         "url": "https://www.youtube.com/watch?v=Rm5jpqnpX8Y",
+#         "filename": "Rm5jpqnpX8Y.mkv",
+#         "note": "《我这个反派强得离谱》第1~93集",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=LulKGQrEoPU",
+#         "filename": "LulKGQrEoPU.mkv",
+#         "note": "《天命反派：女帝姐姐别追了》第1~94集",
+#         "type": "ytdlp"
+#     },
+# ]
+
+download_list = [
+    {
+        "url": "https://www.youtube.com/watch?v=8o8c_Htrt_E",
+        "filename": "8o8cHtrtE.mkv",
+        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第1~68集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Ap7zZddKq-A",
+        "filename": "Ap7zZddKqA.mkv",
+        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第2季",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=1xBtN_buuls",
+        "filename": "1xBtNbuuls.mkv",
+        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第3季",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=TVj3FWxKgso",
+        "filename": "TVj3FWxKgso.mkv",
+        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第4季",
+        "type": "ytdlp"
+    },
+]
+
+# download_list = [
+#     {
+#         "url": "https://www.youtube.com/watch?v=TKI9HNZt6U0",
+#         "filename": "TKI9HNZt6U0.mkv",
+#         "note": "《日行一善，女帝惊呼反派竟成圣人了》第1~2季",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=aCxRRFHAyuA",
+#         "filename": "aCxRRFHAyuA.mkv",
+#         "note": "《日行一善，女帝惊呼反派竟成圣人了》第3季",
+#         "type": "ytdlp"
+#     },
+# ]
 
 def upload(item):
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}'#?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
