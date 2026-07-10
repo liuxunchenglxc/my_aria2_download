@@ -298,49 +298,55 @@ download_list = [
 #         "note": "《天命反派：女帝姐姐别追了》第1~94集",
 #         "type": "ytdlp"
 #     },
+#   {
+#         "url": "https://www.youtube.com/watch?v=0Aj6Iq6g1mQ",
+#         "filename": "0Aj6Iq6g1mQ.mkv",
+#         "note": "《拾光小丫》第1~122集",
+#         "type": "ytdlp"
+#     },
+# ]
+
+# download_list = [
+#     {
+#         "url": "https://www.youtube.com/watch?v=8o8c_Htrt_E",
+#         "filename": "8o8cHtrtE.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第1~68集",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=Ap7zZddKq-A",
+#         "filename": "Ap7zZddKqA.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第2季",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=1xBtN_buuls",
+#         "filename": "1xBtNbuuls.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第3季",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=TVj3FWxKgso",
+#         "filename": "TVj3FWxKgso.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第4季",
+#         "type": "ytdlp"
+#     },
 # ]
 
 download_list = [
     {
-        "url": "https://www.youtube.com/watch?v=8o8c_Htrt_E",
-        "filename": "8o8cHtrtE.mkv",
-        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第1~68集",
+        "url": "https://www.youtube.com/watch?v=TKI9HNZt6U0",
+        "filename": "TKI9HNZt6U0.mkv",
+        "note": "《日行一善，女帝惊呼反派竟成圣人了》第1~2季",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=Ap7zZddKq-A",
-        "filename": "Ap7zZddKqA.mkv",
-        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第2季",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=1xBtN_buuls",
-        "filename": "1xBtNbuuls.mkv",
-        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第3季",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=TVj3FWxKgso",
-        "filename": "TVj3FWxKgso.mkv",
-        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第4季",
+        "url": "https://www.youtube.com/watch?v=aCxRRFHAyuA",
+        "filename": "aCxRRFHAyuA.mkv",
+        "note": "《日行一善，女帝惊呼反派竟成圣人了》第3季",
         "type": "ytdlp"
     },
 ]
-
-# download_list = [
-#     {
-#         "url": "https://www.youtube.com/watch?v=TKI9HNZt6U0",
-#         "filename": "TKI9HNZt6U0.mkv",
-#         "note": "《日行一善，女帝惊呼反派竟成圣人了》第1~2季",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=aCxRRFHAyuA",
-#         "filename": "aCxRRFHAyuA.mkv",
-#         "note": "《日行一善，女帝惊呼反派竟成圣人了》第3季",
-#         "type": "ytdlp"
-#     },
-# ]
 
 def upload(item):
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}'#?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
