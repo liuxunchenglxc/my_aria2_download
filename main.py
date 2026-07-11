@@ -333,18 +333,27 @@ download_list = [
 #     },
 # ]
 
+# download_list = [
+#     {
+#         "url": "https://www.youtube.com/watch?v=TKI9HNZt6U0",
+#         "filename": "TKI9HNZt6U0.mkv",
+#         "note": "《日行一善，女帝惊呼反派竟成圣人了》第1~2季",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=aCxRRFHAyuA",
+#         "filename": "aCxRRFHAyuA.mkv",
+#         "note": "《日行一善，女帝惊呼反派竟成圣人了》第3季",
+#         "type": "ytdlp"
+#     },
+# ]
+
 download_list = [
     {
-        "url": "https://www.youtube.com/watch?v=TKI9HNZt6U0",
-        "filename": "TKI9HNZt6U0.mkv",
-        "note": "《日行一善，女帝惊呼反派竟成圣人了》第1~2季",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=aCxRRFHAyuA",
-        "filename": "aCxRRFHAyuA.mkv",
-        "note": "《日行一善，女帝惊呼反派竟成圣人了》第3季",
-        "type": "ytdlp"
+        "url": "https://d34w7g4gy10iej.cloudfront.net/release_04/uap_release04_videos_071026.zip",
+        "filename": "uap_release04_videos_071026.zip",
+        "note": "UAP第四次公开视频",
+        "type": "aria2"
     },
 ]
 
