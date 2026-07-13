@@ -235,54 +235,6 @@ download_list = [
     #     "note": "一代天才玄脉受损成为废物，新婚之夜遭人毒害。玄天至宝，轮回镜现，逆天改命，带着仇恨与遗憾，誓要登顶力量的巅峰！",
     #     "type": "ytdlp"
     # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=rAdYl0aHM-k",
-    #     "filename": "rAdYl0aHMk.mkv",
-    #     "note": "《今昭北猎之长姐逆袭》",
-    #     "type": "ytdlp"
-    # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=7mq5YrvawyI",
-    #     "filename": "7mq5YrvawyI.mkv",
-    #     "note": "《独守镖宅：携哑妹度荒年》第1~97集",
-    #     "type": "ytdlp"
-    # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=Rqcubm46owk",
-    #     "filename": "Rqcubm46owk.mkv",
-    #     "note": "《我家娘子惹不起》",
-    #     "type": "ytdlp"
-    # },
-    {
-        "url": "https://www.youtube.com/watch?v=a0u75CgXM8w",
-        "filename": "a0u75CgXM8w.mkv",
-        "note": "《帅府福崽2福星奶团来旺家，帅府全家宠不停》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=Yoi4bk9yRCk",
-        "filename": "Yoi4bk9yRCk.mkv",
-        "note": "《我捡了个阿姐，她带我家逆天改命》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=qbyEeolMKDk",
-        "filename": "qbyEeolMKDk.mkv",
-        "note": "《山海经之万兽图鉴》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=-5ZK79SGDNE",
-        "filename": "5ZK79SGDNE.mkv",
-        "note": "《陆家新妇不好惹》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=oh7YflZN3ow",
-        "filename": "oh7YflZN3ow.mkv",
-        "note": "《遇强则强，仙帝来了也得跪下！》",
-        "type": "ytdlp"
-    },
 ]
 
 # download_list = [
@@ -368,96 +320,96 @@ download_list = [
         "note": "【紫煞渡世】1~113集 礼部尚书大小姐自幼养于南禅寺，不学佛经只学捉鬼画符。遭家人冷落、婚约被夺后下山，宫宴百鬼夜行时，她持骨笛朱砂封魂，惊艳全场。",
         "type": "ytdlp"
     },
-    {
-        "url": "https://www.youtube.com/watch?v=PA8OQrBw0cc",
-        "filename": "PA8OQrBw0cc.mkv",
-        "note": "完结【药膳王妃】周小满被卖入国公府，凭厨艺立足。偶遇身份不凡的程二爷，二人相互照拂。她闯过后宅风波，最终等来对方荣封王爷，奉旨成婚，得一世安稳。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=m9TWPAnc7wI",
-        "filename": "m9TWPAnc7wI.mkv",
-        "note": "凤依依，24世纪的中西医翘楚，一朝飞机失事，意外穿越到相府庶女身上。 原主被嫡姐设计，为了不被家丁玷污，选择了跳崖。 谁知道掉到崖底，才离狼群，又入虎口！【我带军火穿越成王妃】结局",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=VtP2-Y725PM",
-        "filename": "VtP2Y725PM.mkv",
-        "note": "第一季【对不起，地府有人，死不了！】无脸鬼借身重生为受虐侯府嫡女，携魂仆回京，偶遇冷峻将军，反手清算侯府仇敌，逆天改写悲惨宿命。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=eigup4ka4PM",
-        "filename": "eigup4ka4PM.mkv",
-        "note": "完结【夫人她会拳脚】将门沈知意嫁入伯府，怒怼苛待她的一众家人，秋猎领兵救驾立功，功成果断和离，奔赴沙场做女将军。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=co8q5EDeWdI",
-        "filename": "co8q5EDeWdI.mkv",
-        "note": "完结【免费晒粮三年，停办后全村慌了】林麦香无偿打理晒粮场遭误解，放手后村中乱象百出。她不再独自承担，牵头立下规矩、理清账目，让善良有底线，相处更和睦。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=KQnMckn6LXk",
-        "filename": "KQnMckn6LXk.mkv",
-        "note": "【刚从地府来，五岁幼崽工龄两千年】1~26集 冥帝崽崽为救爹爹下凡寻亲，遭假公主欺辱便打遍金陵。大晋因此国运昌盛，众人争相抢崽，殊不知她是工龄两千年的地府小霸王。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=jwZLzKtc7Os",
-        "filename": "jwZLzKtc7Os.mkv",
-        "note": "完结【穿成猎户极品妻，别人饿肚我炫肉！】拆迁户林岚携小院空间穿越古代，沦为娇气弱女。为避纷争嫁质朴猎户，坐拥物资安稳度日，凭现代智慧经营生活，夫妻相守，于乱世荒年安稳致富，岁月温情绵长。漫剧",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=zFXgE-e6LLc",
-        "filename": "zFXgEe6LLc.mkv",
-        "note": "《穿成糕点铺千金，我靠甜品征服古代》江糖糖穿成衰败糕点铺千金，以现代西点力克竞品，火爆江南，开店连锁铸就金字招牌",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=uOXODo0oQQo",
-        "filename": "uOXODo0oQQo.mkv",
-        "note": "《天庭扫地：上一休六我是天庭临时清洁工》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=CPgU0LBEEn8",
-        "filename": "CPgU0LBEEn8.mkv",
-        "note": "【马甲藏不住，假千金炸翻全京圈】1~17集 做了十七年陆家假千金的梦安然，身世揭晓后利落断联回归清贫原生家庭，京圈皆断定她落魄难熬，不料她人脉惊人，国际设计师、书法名家皆是她至交好友。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=bUlyyuXuFkM",
-        "filename": "bUlyyuXuFkM.mkv",
-        "note": "【萌翻了：团宠奶包三岁半】1~29集 西乡村赵家捡回个三岁小胖丫头，人人嫌是赔钱货，赵家却宠上天。此后瞎眼丈夫复明、中毒儿子解毒，家境日渐富庶。半夜偷听的人只听见小奶包暴躁喊娘亲找红绳。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=2aiW_uYIA8A",
-        "filename": "2aiWuYIA8A.mkv",
-        "note": "完结【宠妾灭妻：休夫后搬空国库去造反】一朝穿越，神医郁璃居然成了一个恋爱脑侯夫人，她平生最厌恶渣男，把人打到跪地求饶再把他休了",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=leWyUFNNSTw",
-        "filename": "leWyUFNNSTw.mkv",
-        "note": "完结【从男频穿回来后，我横推了女频】以前我讲道理，你不爱听，现在我爱上了物理。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=nQeH2-AAXcc",
-        "filename": "nQeH2AAXcc.mkv",
-        "note": "完结【摘下眼镜后，两大校草为我疯狂】平凡少女因貌美被校花忌惮陷害，灵魂换作穿书者许清梨，她挺身而出，誓要揭穿阴谋、惩治恶人。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=jHNclDudoDI",
-        "filename": "jHNclDudoDI.mkv",
-        "note": "【我真不想修仙啊！】1~15集 你刚问我什么？” “修仙很苦，你怕吗？” “上一句？” “你想修仙吗？” 许闲略一沉吟，“修仙可以，吃苦不行！”",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=PA8OQrBw0cc",
+    #     "filename": "PA8OQrBw0cc.mkv",
+    #     "note": "完结【药膳王妃】周小满被卖入国公府，凭厨艺立足。偶遇身份不凡的程二爷，二人相互照拂。她闯过后宅风波，最终等来对方荣封王爷，奉旨成婚，得一世安稳。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=m9TWPAnc7wI",
+    #     "filename": "m9TWPAnc7wI.mkv",
+    #     "note": "凤依依，24世纪的中西医翘楚，一朝飞机失事，意外穿越到相府庶女身上。 原主被嫡姐设计，为了不被家丁玷污，选择了跳崖。 谁知道掉到崖底，才离狼群，又入虎口！【我带军火穿越成王妃】结局",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=VtP2-Y725PM",
+    #     "filename": "VtP2Y725PM.mkv",
+    #     "note": "第一季【对不起，地府有人，死不了！】无脸鬼借身重生为受虐侯府嫡女，携魂仆回京，偶遇冷峻将军，反手清算侯府仇敌，逆天改写悲惨宿命。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=eigup4ka4PM",
+    #     "filename": "eigup4ka4PM.mkv",
+    #     "note": "完结【夫人她会拳脚】将门沈知意嫁入伯府，怒怼苛待她的一众家人，秋猎领兵救驾立功，功成果断和离，奔赴沙场做女将军。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=co8q5EDeWdI",
+    #     "filename": "co8q5EDeWdI.mkv",
+    #     "note": "完结【免费晒粮三年，停办后全村慌了】林麦香无偿打理晒粮场遭误解，放手后村中乱象百出。她不再独自承担，牵头立下规矩、理清账目，让善良有底线，相处更和睦。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=KQnMckn6LXk",
+    #     "filename": "KQnMckn6LXk.mkv",
+    #     "note": "【刚从地府来，五岁幼崽工龄两千年】1~26集 冥帝崽崽为救爹爹下凡寻亲，遭假公主欺辱便打遍金陵。大晋因此国运昌盛，众人争相抢崽，殊不知她是工龄两千年的地府小霸王。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=jwZLzKtc7Os",
+    #     "filename": "jwZLzKtc7Os.mkv",
+    #     "note": "完结【穿成猎户极品妻，别人饿肚我炫肉！】拆迁户林岚携小院空间穿越古代，沦为娇气弱女。为避纷争嫁质朴猎户，坐拥物资安稳度日，凭现代智慧经营生活，夫妻相守，于乱世荒年安稳致富，岁月温情绵长。漫剧",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=zFXgE-e6LLc",
+    #     "filename": "zFXgEe6LLc.mkv",
+    #     "note": "《穿成糕点铺千金，我靠甜品征服古代》江糖糖穿成衰败糕点铺千金，以现代西点力克竞品，火爆江南，开店连锁铸就金字招牌",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=uOXODo0oQQo",
+    #     "filename": "uOXODo0oQQo.mkv",
+    #     "note": "《天庭扫地：上一休六我是天庭临时清洁工》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=CPgU0LBEEn8",
+    #     "filename": "CPgU0LBEEn8.mkv",
+    #     "note": "【马甲藏不住，假千金炸翻全京圈】1~17集 做了十七年陆家假千金的梦安然，身世揭晓后利落断联回归清贫原生家庭，京圈皆断定她落魄难熬，不料她人脉惊人，国际设计师、书法名家皆是她至交好友。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=bUlyyuXuFkM",
+    #     "filename": "bUlyyuXuFkM.mkv",
+    #     "note": "【萌翻了：团宠奶包三岁半】1~29集 西乡村赵家捡回个三岁小胖丫头，人人嫌是赔钱货，赵家却宠上天。此后瞎眼丈夫复明、中毒儿子解毒，家境日渐富庶。半夜偷听的人只听见小奶包暴躁喊娘亲找红绳。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=2aiW_uYIA8A",
+    #     "filename": "2aiWuYIA8A.mkv",
+    #     "note": "完结【宠妾灭妻：休夫后搬空国库去造反】一朝穿越，神医郁璃居然成了一个恋爱脑侯夫人，她平生最厌恶渣男，把人打到跪地求饶再把他休了",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=leWyUFNNSTw",
+    #     "filename": "leWyUFNNSTw.mkv",
+    #     "note": "完结【从男频穿回来后，我横推了女频】以前我讲道理，你不爱听，现在我爱上了物理。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=nQeH2-AAXcc",
+    #     "filename": "nQeH2AAXcc.mkv",
+    #     "note": "完结【摘下眼镜后，两大校草为我疯狂】平凡少女因貌美被校花忌惮陷害，灵魂换作穿书者许清梨，她挺身而出，誓要揭穿阴谋、惩治恶人。",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=jHNclDudoDI",
+    #     "filename": "jHNclDudoDI.mkv",
+    #     "note": "【我真不想修仙啊！】1~15集 你刚问我什么？” “修仙很苦，你怕吗？” “上一句？” “你想修仙吗？” 许闲略一沉吟，“修仙可以，吃苦不行！”",
+    #     "type": "ytdlp"
+    # },
 ]
 
 # DK动漫社DramaKeeper
@@ -482,26 +434,26 @@ download_list = [
 #     }
 # ]
 
-download_list = [
-    # {
-    #     "url": "https://www.youtube.com/watch?v=Rm5jpqnpX8Y",
-    #     "filename": "Rm5jpqnpX8Y.mkv",
-    #     "note": "《我这个反派强得离谱》第1~93集",
-    #     "type": "ytdlp"
-    # },
-    {
-        "url": "https://www.youtube.com/watch?v=LulKGQrEoPU",
-        "filename": "LulKGQrEoPU.mkv",
-        "note": "《天命反派：女帝姐姐别追了》第1~94集",
-        "type": "ytdlp"
-    },
-  {
-        "url": "https://www.youtube.com/watch?v=0Aj6Iq6g1mQ",
-        "filename": "0Aj6Iq6g1mQ.mkv",
-        "note": "《拾光小丫》第1~122集",
-        "type": "ytdlp"
-    },
-]
+# download_list = [
+#     # {
+#     #     "url": "https://www.youtube.com/watch?v=Rm5jpqnpX8Y",
+#     #     "filename": "Rm5jpqnpX8Y.mkv",
+#     #     "note": "《我这个反派强得离谱》第1~93集",
+#     #     "type": "ytdlp"
+#     # },
+#     {
+#         "url": "https://www.youtube.com/watch?v=LulKGQrEoPU",
+#         "filename": "LulKGQrEoPU.mkv",
+#         "note": "《天命反派：女帝姐姐别追了》第1~94集",
+#         "type": "ytdlp"
+#     },
+#   {
+#         "url": "https://www.youtube.com/watch?v=0Aj6Iq6g1mQ",
+#         "filename": "0Aj6Iq6g1mQ.mkv",
+#         "note": "《拾光小丫》第1~122集",
+#         "type": "ytdlp"
+#     },
+# ]
 
 def upload(item):
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}'#?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
