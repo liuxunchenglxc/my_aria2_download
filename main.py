@@ -285,27 +285,6 @@ download_list = [
     },
 ]
 
-download_list = [
-    {
-        "url": "https://www.youtube.com/watch?v=Rm5jpqnpX8Y",
-        "filename": "Rm5jpqnpX8Y.mkv",
-        "note": "《我这个反派强得离谱》第1~93集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=LulKGQrEoPU",
-        "filename": "LulKGQrEoPU.mkv",
-        "note": "《天命反派：女帝姐姐别追了》第1~94集",
-        "type": "ytdlp"
-    },
-  {
-        "url": "https://www.youtube.com/watch?v=0Aj6Iq6g1mQ",
-        "filename": "0Aj6Iq6g1mQ.mkv",
-        "note": "《拾光小丫》第1~122集",
-        "type": "ytdlp"
-    },
-]
-
 # download_list = [
 #     {
 #         "url": "https://www.youtube.com/watch?v=8o8c_Htrt_E",
@@ -482,25 +461,46 @@ download_list = [
 ]
 
 # DK动漫社DramaKeeper
+# download_list = [
+#     {
+#         "url": "https://www.youtube.com/watch?v=J2D1PO9rCWI",
+#         "filename": "J2D1PO9rCWI.mkv",
+#         "note": "持续更新中📢新番上线《应劫男女》第1~53集",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=aSU1edcjcww",
+#         "filename": "aSU1edcjcww.mkv",
+#         "note": "持续更新中📢新番上线《应劫男女》第54集",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=HMqWLfU4So8",
+#         "filename": "HMqWLfU4So8.mkv",
+#         "note": "持续更新中📢新番上线《应劫男女》第55集",
+#         "type": "ytdlp"
+#     }
+# ]
+
 download_list = [
+    # {
+    #     "url": "https://www.youtube.com/watch?v=Rm5jpqnpX8Y",
+    #     "filename": "Rm5jpqnpX8Y.mkv",
+    #     "note": "《我这个反派强得离谱》第1~93集",
+    #     "type": "ytdlp"
+    # },
     {
-        "url": "https://www.youtube.com/watch?v=J2D1PO9rCWI",
-        "filename": "J2D1PO9rCWI.mkv",
-        "note": "持续更新中📢新番上线《应劫男女》第1~53集",
+        "url": "https://www.youtube.com/watch?v=LulKGQrEoPU",
+        "filename": "LulKGQrEoPU.mkv",
+        "note": "《天命反派：女帝姐姐别追了》第1~94集",
         "type": "ytdlp"
     },
-    {
-        "url": "https://www.youtube.com/watch?v=aSU1edcjcww",
-        "filename": "aSU1edcjcww.mkv",
-        "note": "持续更新中📢新番上线《应劫男女》第54集",
+  {
+        "url": "https://www.youtube.com/watch?v=0Aj6Iq6g1mQ",
+        "filename": "0Aj6Iq6g1mQ.mkv",
+        "note": "《拾光小丫》第1~122集",
         "type": "ytdlp"
     },
-    {
-        "url": "https://www.youtube.com/watch?v=HMqWLfU4So8",
-        "filename": "HMqWLfU4So8.mkv",
-        "note": "持续更新中📢新番上线《应劫男女》第55集",
-        "type": "ytdlp"
-    }
 ]
 
 def upload(item):
