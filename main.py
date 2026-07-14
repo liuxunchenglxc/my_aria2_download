@@ -447,13 +447,34 @@ download_list = [
 #         "note": "《天命反派：女帝姐姐别追了》第1~94集",
 #         "type": "ytdlp"
 #     },
-#   {
-#         "url": "https://www.youtube.com/watch?v=0Aj6Iq6g1mQ",
-#         "filename": "0Aj6Iq6g1mQ.mkv",
-#         "note": "《拾光小丫》第1~122集",
-#         "type": "ytdlp"
-#     },
 # ]
+
+download_list = [
+    {
+        "url": "https://www.youtube.com/watch?v=q7z1S44QduI",
+        "filename": "q7z1S44QduI.mkv",
+        "note": "《发配边关，罪妻开荒养出战神》第8季",
+        "type": "ytdlp"
+    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=u-1Au9xhTEY",
+    #     "filename": "u1Au9xhTEY.mkv",
+    #     "note": "《万妖图录传》第8季",
+    #     "type": "ytdlp"
+    # },
+    {
+        "url": "https://www.youtube.com/watch?v=qbyEeolMKDk",
+        "filename": "qbyEeolMKDk.mkv",
+        "note": "《山海经之万兽图鉴》",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=FhWbcPnMJlE",
+        "filename": "FhWbcPnMJlE.mkv",
+        "note": "《普通弓箭手？我能无限叠加攻击力》第2季",
+        "type": "ytdlp"
+    },
+]
 
 def upload(item):
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}'#?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
