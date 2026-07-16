@@ -290,66 +290,66 @@ download_list = [
 
 # 软糖动画 Top 20 260712
 download_list = [
-    {
-        "url": "https://www.youtube.com/watch?v=yyCNNun8eK4",
-        "filename": "yyCNNun8eK4.mkv",
-        "note": "【我把神兽当家禽，修真界慌了】1~175集 禁区长大的少女误认出身平凡，携神兽神药踏入修仙界。加入奇特宗门，以种田思维闯荡修真，一路趣味逆袭碾压众人。",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=zvSicKgnjxI",
-        "filename": "zvSicKgnjxI.mkv",
-        "note": "【凡骨】1~115集  一介凡骨许太平，誓要向这修行界证明，凡骨亦能斩妖，凡骨亦能除魔，凡骨亦能登仙！",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=4unuqWV9rDU",
-        "filename": "4unuqWV9rDU.mkv",
-        "note": "《念念小福星》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=fFEqlUmeCpo",
-        "filename": "fFEqlUmeCpo.mkv",
-        "note": "《我的大力娘子》全能天才阮宁地震穿越古代傻女，开局家破人弱深陷绝境，凭超凡力量踹退恶霸，护佑家人，携全家逆袭致富",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=XpSOLLd1eS0",
-        "filename": "XpSOLLd1eS0.mkv",
-        "note": "【紫煞渡世】1~113集 礼部尚书大小姐自幼养于南禅寺，不学佛经只学捉鬼画符。遭家人冷落、婚约被夺后下山，宫宴百鬼夜行时，她持骨笛朱砂封魂，惊艳全场。",
-        "type": "ytdlp"
-    },
     # {
-    #     "url": "https://www.youtube.com/watch?v=PA8OQrBw0cc",
-    #     "filename": "PA8OQrBw0cc.mkv",
-    #     "note": "完结【药膳王妃】周小满被卖入国公府，凭厨艺立足。偶遇身份不凡的程二爷，二人相互照拂。她闯过后宅风波，最终等来对方荣封王爷，奉旨成婚，得一世安稳。",
+    #     "url": "https://www.youtube.com/watch?v=yyCNNun8eK4",
+    #     "filename": "yyCNNun8eK4.mkv",
+    #     "note": "【我把神兽当家禽，修真界慌了】1~175集 禁区长大的少女误认出身平凡，携神兽神药踏入修仙界。加入奇特宗门，以种田思维闯荡修真，一路趣味逆袭碾压众人。",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=m9TWPAnc7wI",
-    #     "filename": "m9TWPAnc7wI.mkv",
-    #     "note": "凤依依，24世纪的中西医翘楚，一朝飞机失事，意外穿越到相府庶女身上。 原主被嫡姐设计，为了不被家丁玷污，选择了跳崖。 谁知道掉到崖底，才离狼群，又入虎口！【我带军火穿越成王妃】结局",
+    #     "url": "https://www.youtube.com/watch?v=zvSicKgnjxI",
+    #     "filename": "zvSicKgnjxI.mkv",
+    #     "note": "【凡骨】1~115集  一介凡骨许太平，誓要向这修行界证明，凡骨亦能斩妖，凡骨亦能除魔，凡骨亦能登仙！",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=VtP2-Y725PM",
-    #     "filename": "VtP2Y725PM.mkv",
-    #     "note": "第一季【对不起，地府有人，死不了！】无脸鬼借身重生为受虐侯府嫡女，携魂仆回京，偶遇冷峻将军，反手清算侯府仇敌，逆天改写悲惨宿命。",
+    #     "url": "https://www.youtube.com/watch?v=4unuqWV9rDU",
+    #     "filename": "4unuqWV9rDU.mkv",
+    #     "note": "《念念小福星》",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=eigup4ka4PM",
-    #     "filename": "eigup4ka4PM.mkv",
-    #     "note": "完结【夫人她会拳脚】将门沈知意嫁入伯府，怒怼苛待她的一众家人，秋猎领兵救驾立功，功成果断和离，奔赴沙场做女将军。",
+    #     "url": "https://www.youtube.com/watch?v=fFEqlUmeCpo",
+    #     "filename": "fFEqlUmeCpo.mkv",
+    #     "note": "《我的大力娘子》全能天才阮宁地震穿越古代傻女，开局家破人弱深陷绝境，凭超凡力量踹退恶霸，护佑家人，携全家逆袭致富",
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=co8q5EDeWdI",
-    #     "filename": "co8q5EDeWdI.mkv",
-    #     "note": "完结【免费晒粮三年，停办后全村慌了】林麦香无偿打理晒粮场遭误解，放手后村中乱象百出。她不再独自承担，牵头立下规矩、理清账目，让善良有底线，相处更和睦。",
+    #     "url": "https://www.youtube.com/watch?v=XpSOLLd1eS0",
+    #     "filename": "XpSOLLd1eS0.mkv",
+    #     "note": "【紫煞渡世】1~113集 礼部尚书大小姐自幼养于南禅寺，不学佛经只学捉鬼画符。遭家人冷落、婚约被夺后下山，宫宴百鬼夜行时，她持骨笛朱砂封魂，惊艳全场。",
     #     "type": "ytdlp"
     # },
+    {
+        "url": "https://www.youtube.com/watch?v=PA8OQrBw0cc",
+        "filename": "PA8OQrBw0cc.mkv",
+        "note": "完结【药膳王妃】周小满被卖入国公府，凭厨艺立足。偶遇身份不凡的程二爷，二人相互照拂。她闯过后宅风波，最终等来对方荣封王爷，奉旨成婚，得一世安稳。",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=m9TWPAnc7wI",
+        "filename": "m9TWPAnc7wI.mkv",
+        "note": "凤依依，24世纪的中西医翘楚，一朝飞机失事，意外穿越到相府庶女身上。 原主被嫡姐设计，为了不被家丁玷污，选择了跳崖。 谁知道掉到崖底，才离狼群，又入虎口！【我带军火穿越成王妃】结局",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=VtP2-Y725PM",
+        "filename": "VtP2Y725PM.mkv",
+        "note": "第一季【对不起，地府有人，死不了！】无脸鬼借身重生为受虐侯府嫡女，携魂仆回京，偶遇冷峻将军，反手清算侯府仇敌，逆天改写悲惨宿命。",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=eigup4ka4PM",
+        "filename": "eigup4ka4PM.mkv",
+        "note": "完结【夫人她会拳脚】将门沈知意嫁入伯府，怒怼苛待她的一众家人，秋猎领兵救驾立功，功成果断和离，奔赴沙场做女将军。",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=co8q5EDeWdI",
+        "filename": "co8q5EDeWdI.mkv",
+        "note": "完结【免费晒粮三年，停办后全村慌了】林麦香无偿打理晒粮场遭误解，放手后村中乱象百出。她不再独自承担，牵头立下规矩、理清账目，让善良有底线，相处更和睦。",
+        "type": "ytdlp"
+    },
     # {
     #     "url": "https://www.youtube.com/watch?v=KQnMckn6LXk",
     #     "filename": "KQnMckn6LXk.mkv",
@@ -449,31 +449,79 @@ download_list = [
 #     },
 # ]
 
+# download_list = [
+#     {
+#         "url": "https://www.youtube.com/watch?v=q7z1S44QduI",
+#         "filename": "q7z1S44QduI.mkv",
+#         "note": "《发配边关，罪妻开荒养出战神》第8季",
+#         "type": "ytdlp"
+#     },
+#     # {
+#     #     "url": "https://www.youtube.com/watch?v=u-1Au9xhTEY",
+#     #     "filename": "u1Au9xhTEY.mkv",
+#     #     "note": "《万妖图录传》第8季",
+#     #     "type": "ytdlp"
+#     # },
+#     {
+#         "url": "https://www.youtube.com/watch?v=FhWbcPnMJlE",
+#         "filename": "FhWbcPnMJlE.mkv",
+#         "note": "《普通弓箭手？我能无限叠加攻击力》第2季",
+#         "type": "ytdlp"
+#     },
+# ]
+
 download_list = [
     {
-        "url": "https://www.youtube.com/watch?v=q7z1S44QduI",
-        "filename": "q7z1S44QduI.mkv",
-        "note": "《发配边关，罪妻开荒养出战神》第8季",
+        "url": "https://www.youtube.com/watch?v=6ys24A8vVCY",
+        "filename": "6ys24A8vVCY.mkv",
+        "note": "高善文生前演讲精选｜新闻特写20260708",
+        "type": "ytdlp"
+    },
+]
+
+download_list = [
+    {
+        "url": "https://www.youtube.com/watch?v=EuL4R5GhXQQ",
+        "filename": "EuL4R5GhXQQ.mkv",
+        "note": "《被退学后，我觉醒了系统》第1~4季",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=Dn8UPu9JxCI",
+        "filename": "Dn8UPu9JxCI.mkv",
+        "note": "《高武：召唤师弱？反手觉醒亿万神》第1~100集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=cNDw8QnW0Lk",
+        "filename": "cNDw8QnW0Lk.mkv",
+        "note": "《校花分手，我觉醒太古十凶武魂》第1~65集",
+        "type": "ytdlp"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=0b0rtdHqUKE",
+        "filename": "0b0rtdHqUKE.mkv",
+        "note": "《觉醒SSS血脉，高冷校花倒追我》第1~60集",
         "type": "ytdlp"
     },
     # {
-    #     "url": "https://www.youtube.com/watch?v=u-1Au9xhTEY",
-    #     "filename": "u1Au9xhTEY.mkv",
-    #     "note": "《万妖图录传》第8季",
+    #     "url": "https://www.youtube.com/watch?v=blhlcXXGH8s",
+    #     "filename": "blhlcXXGH8s.mkv",
+    #     "note": "《开局觉醒SSS系统，女武神叫我老师》第1~111集",
     #     "type": "ytdlp"
     # },
-    {
-        "url": "https://www.youtube.com/watch?v=qbyEeolMKDk",
-        "filename": "qbyEeolMKDk.mkv",
-        "note": "《山海经之万兽图鉴》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=FhWbcPnMJlE",
-        "filename": "FhWbcPnMJlE.mkv",
-        "note": "《普通弓箭手？我能无限叠加攻击力》第2季",
-        "type": "ytdlp"
-    },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=NQFJddPqAYc",
+    #     "filename": "NQFJddPqAYc.mkv",
+    #     "note": "《觉醒斩妖系统，从捕快到武神第一季》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=MWUISPK0byY",
+    #     "filename": "MWUISPK0byY.mkv",
+    #     "note": "《天赋觉醒：从婚礼弃婿到都市守护神》第1~79集",
+    #     "type": "ytdlp"
+    # },
 ]
 
 def upload(item):
