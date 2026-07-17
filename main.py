@@ -239,33 +239,6 @@ download_list = [
 
 # download_list = [
 #     {
-#         "url": "https://www.youtube.com/watch?v=8o8c_Htrt_E",
-#         "filename": "8o8cHtrtE.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第1~68集",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=Ap7zZddKq-A",
-#         "filename": "Ap7zZddKqA.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第2季",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=1xBtN_buuls",
-#         "filename": "1xBtNbuuls.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第3季",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=TVj3FWxKgso",
-#         "filename": "TVj3FWxKgso.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第4季",
-#         "type": "ytdlp"
-#     },
-# ]
-
-# download_list = [
-#     {
 #         "url": "https://www.youtube.com/watch?v=TKI9HNZt6U0",
 #         "filename": "TKI9HNZt6U0.mkv",
 #         "note": "《日行一善，女帝惊呼反派竟成圣人了》第1~2季",
@@ -504,6 +477,12 @@ download_list = [
         "note": "《觉醒SSS血脉，高冷校花倒追我》第1~60集",
         "type": "ytdlp"
     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=53T5rovRCIc",
+#         "filename": "53T5rovRCIc.mkv",
+#         "note": "《觉醒顶级冰系，然后一路无敌》第1~80集",
+#         "type": "ytdlp"
+#     },
     # {
     #     "url": "https://www.youtube.com/watch?v=blhlcXXGH8s",
     #     "filename": "blhlcXXGH8s.mkv",
@@ -522,6 +501,39 @@ download_list = [
     #     "note": "《天赋觉醒：从婚礼弃婿到都市守护神》第1~79集",
     #     "type": "ytdlp"
     # },
+]
+
+download_list = [
+#     {
+#         "url": "https://www.youtube.com/watch?v=8o8c_Htrt_E",
+#         "filename": "8o8cHtrtE.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第1~68集",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=Ap7zZddKq-A",
+#         "filename": "Ap7zZddKqA.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第2季",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=1xBtN_buuls",
+#         "filename": "1xBtNbuuls.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第3季",
+#         "type": "ytdlp"
+#     },
+#     {
+#         "url": "https://www.youtube.com/watch?v=TVj3FWxKgso",
+#         "filename": "TVj3FWxKgso.mkv",
+#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第4季",
+#         "type": "ytdlp"
+#     },
+    {
+        "url": "https://www.youtube.com/watch?v=mse96tpnGu4",
+        "filename": "mse96tpnGu4.mkv",
+        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第5季",
+        "type": "ytdlp"
+    },
 ]
 
 def upload(item):
