@@ -385,28 +385,6 @@ download_list = [
     # },
 ]
 
-# DK动漫社DramaKeeper
-# download_list = [
-#     {
-#         "url": "https://www.youtube.com/watch?v=J2D1PO9rCWI",
-#         "filename": "J2D1PO9rCWI.mkv",
-#         "note": "持续更新中📢新番上线《应劫男女》第1~53集",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=aSU1edcjcww",
-#         "filename": "aSU1edcjcww.mkv",
-#         "note": "持续更新中📢新番上线《应劫男女》第54集",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=HMqWLfU4So8",
-#         "filename": "HMqWLfU4So8.mkv",
-#         "note": "持续更新中📢新番上线《应劫男女》第55集",
-#         "type": "ytdlp"
-#     }
-# ]
-
 # download_list = [
 #     # {
 #     #     "url": "https://www.youtube.com/watch?v=Rm5jpqnpX8Y",
@@ -422,27 +400,6 @@ download_list = [
 #     },
 # ]
 
-# download_list = [
-#     {
-#         "url": "https://www.youtube.com/watch?v=q7z1S44QduI",
-#         "filename": "q7z1S44QduI.mkv",
-#         "note": "《发配边关，罪妻开荒养出战神》第8季",
-#         "type": "ytdlp"
-#     },
-#     # {
-#     #     "url": "https://www.youtube.com/watch?v=u-1Au9xhTEY",
-#     #     "filename": "u1Au9xhTEY.mkv",
-#     #     "note": "《万妖图录传》第8季",
-#     #     "type": "ytdlp"
-#     # },
-#     {
-#         "url": "https://www.youtube.com/watch?v=FhWbcPnMJlE",
-#         "filename": "FhWbcPnMJlE.mkv",
-#         "note": "《普通弓箭手？我能无限叠加攻击力》第2季",
-#         "type": "ytdlp"
-#     },
-# ]
-
 download_list = [
     {
         "url": "https://www.youtube.com/watch?v=6ys24A8vVCY",
@@ -453,85 +410,28 @@ download_list = [
 ]
 
 download_list = [
-    {
-        "url": "https://www.youtube.com/watch?v=EuL4R5GhXQQ",
-        "filename": "EuL4R5GhXQQ.mkv",
-        "note": "《被退学后，我觉醒了系统》第1~4季",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=Dn8UPu9JxCI",
-        "filename": "Dn8UPu9JxCI.mkv",
-        "note": "《高武：召唤师弱？反手觉醒亿万神》第1~100集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=cNDw8QnW0Lk",
-        "filename": "cNDw8QnW0Lk.mkv",
-        "note": "《校花分手，我觉醒太古十凶武魂》第1~65集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=0b0rtdHqUKE",
-        "filename": "0b0rtdHqUKE.mkv",
-        "note": "《觉醒SSS血脉，高冷校花倒追我》第1~60集",
-        "type": "ytdlp"
-    },
-#     {
-#         "url": "https://www.youtube.com/watch?v=53T5rovRCIc",
-#         "filename": "53T5rovRCIc.mkv",
-#         "note": "《觉醒顶级冰系，然后一路无敌》第1~80集",
-#         "type": "ytdlp"
-#     },
     # {
-    #     "url": "https://www.youtube.com/watch?v=blhlcXXGH8s",
-    #     "filename": "blhlcXXGH8s.mkv",
-    #     "note": "《开局觉醒SSS系统，女武神叫我老师》第1~111集",
+    #     "url": "https://www.youtube.com/watch?v=q7z1S44QduI",
+    #     "filename": "q7z1S44QduI.mkv",
+    #     "note": "《发配边关，罪妻开荒养出战神》第8季",
     #     "type": "ytdlp"
     # },
+    # # {
+    # #     "url": "https://www.youtube.com/watch?v=u-1Au9xhTEY",
+    # #     "filename": "u1Au9xhTEY.mkv",
+    # #     "note": "《万妖图录传》第8季",
+    # #     "type": "ytdlp"
+    # # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=NQFJddPqAYc",
-    #     "filename": "NQFJddPqAYc.mkv",
-    #     "note": "《觉醒斩妖系统，从捕快到武神第一季》",
+    #     "url": "https://www.youtube.com/watch?v=FhWbcPnMJlE",
+    #     "filename": "FhWbcPnMJlE.mkv",
+    #     "note": "《普通弓箭手？我能无限叠加攻击力》第2季",
     #     "type": "ytdlp"
     # },
-    # {
-    #     "url": "https://www.youtube.com/watch?v=MWUISPK0byY",
-    #     "filename": "MWUISPK0byY.mkv",
-    #     "note": "《天赋觉醒：从婚礼弃婿到都市守护神》第1~79集",
-    #     "type": "ytdlp"
-    # },
-]
-
-download_list = [
-#     {
-#         "url": "https://www.youtube.com/watch?v=8o8c_Htrt_E",
-#         "filename": "8o8cHtrtE.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第1~68集",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=Ap7zZddKq-A",
-#         "filename": "Ap7zZddKqA.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第2季",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=1xBtN_buuls",
-#         "filename": "1xBtNbuuls.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第3季",
-#         "type": "ytdlp"
-#     },
-#     {
-#         "url": "https://www.youtube.com/watch?v=TVj3FWxKgso",
-#         "filename": "TVj3FWxKgso.mkv",
-#         "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第4季",
-#         "type": "ytdlp"
-#     },
     {
-        "url": "https://www.youtube.com/watch?v=mse96tpnGu4",
-        "filename": "mse96tpnGu4.mkv",
-        "note": "《穿成炮灰后：不是反派吗？怎么要抱抱》第5季",
+        "url": "https://www.youtube.com/watch?v=U5pr81NdPdI",
+        "filename": "U5pr81NdPdI.mkv",
+        "note": "《血量亿倍增幅，被当成废物异能》第2季",
         "type": "ytdlp"
     },
 ]
