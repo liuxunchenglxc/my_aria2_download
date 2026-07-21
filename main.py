@@ -323,39 +323,45 @@ download_list = [
     #     "type": "ytdlp"
     # },
     # {
-    #     "url": "https://www.youtube.com/watch?v=oM15RnayWJo",
-    #     "filename": "oM15RnayWJo.mkv",
-    #     "note": "《邪修好啊，邪修升级快》",
+    #     "url": "https://www.youtube.com/watch?v=bxrEdAtG9os",
+    #     "filename": "bxrEdAtG9os.mkv",
+    #     "note": "《高考状元：系统逼我攻略顶级世家大小姐》第1~84集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=ibogiP2ovEc",
+    #     "filename": "ibogiP2ovEc.mkv",
+    #     "note": "《开局被甩，绑定系统的我被校花疯狂表白》第1~100集",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=Uy_Co3YU1jc",
+    #     "filename": "UyCo3YU1jc.mkv",
+    #     "note": "《精神小妹也要修机甲吗》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=1tPSF6S_QMI",
+    #     "filename": "1tPSF6SQMI.mkv",
+    #     "note": "《精神小妹也要修机甲吗第二季》",
+    #     "type": "ytdlp"
+    # },
+    # {
+    #     "url": "https://www.youtube.com/watch?v=EuL4R5GhXQQ",
+    #     "filename": "EuL4R5GhXQQ.mkv",
+    #     "note": "《被退学后，我觉醒了系统》第1~4季",
     #     "type": "ytdlp"
     # },
     {
-        "url": "https://www.youtube.com/watch?v=bxrEdAtG9os",
-        "filename": "bxrEdAtG9os.mkv",
-        "note": "《高考状元：系统逼我攻略顶级世家大小姐》第1~84集",
+        "url": "https://www.youtube.com/watch?v=L8qneuYI_9Y",
+        "filename": "L8qneuYI9Y.mkv",
+        "note": "《我就修个家电，怎么被军方盯上了》第1~69集",
         "type": "ytdlp"
     },
     {
-        "url": "https://www.youtube.com/watch?v=ibogiP2ovEc",
-        "filename": "ibogiP2ovEc.mkv",
-        "note": "《开局被甩，绑定系统的我被校花疯狂表白》第1~100集",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=Uy_Co3YU1jc",
-        "filename": "UyCo3YU1jc.mkv",
-        "note": "《精神小妹也要修机甲吗》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=1tPSF6S_QMI",
-        "filename": "1tPSF6SQMI.mkv",
-        "note": "《精神小妹也要修机甲吗第二季》",
-        "type": "ytdlp"
-    },
-    {
-        "url": "https://www.youtube.com/watch?v=EuL4R5GhXQQ",
-        "filename": "EuL4R5GhXQQ.mkv",
-        "note": "《被退学后，我觉醒了系统》第1~4季",
+        "url": "https://www.youtube.com/watch?v=Wac11Htrzb4",
+        "filename": "Wac11Htrzb4.mkv",
+        "note": "《兽世重生：人鱼为我逆转时空》第1~50集",
         "type": "ytdlp"
     },
 ]
