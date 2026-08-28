@@ -19,7 +19,7 @@ if [ "$LATEST_VERSION" == "$YT_POT_VERSION" ]; then
 else
    echo "有新版本Brainicism/bgutil-ytdlp-pot-provider可用！当前版本: $YT_POT_VERSION，最新版本: $LATEST_VERSION"
    echo "https://github.com/Brainicism/bgutil-ytdlp-pot-provider"
-   curl -s -X POST "https://api.telegram.org/${{ secrets.TG_TOKEN }}/sendMessage" \
+   curl -s -X POST "https://api.telegram.org/bot${{ secrets.TG_TOKEN }}/sendMessage" \
         -d "chat_id=${{ secrets.TG_CHAT_ID }}" \
         -d "text=⚠️ 插件有新版本了！%0A当前版本: $YT_POT_VERSION%0A最新版本: $LATEST_VERSION"
 fi
