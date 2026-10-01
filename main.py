@@ -366,6 +366,25 @@ download_list = [
     },
 ]
 
+download_list = [
+    {
+        "url": "https://videos-rockstargames-com.akamaized.net/v4/rk721912/flv/zh-hans-2160p.mp4",
+        "filename": "zh-hans-2160p.mkv",
+        "note": "Grand Theft Auto VI: An Extended Look",
+        "type": "ytdlp"
+    },
+]
+
+
+download_list = [
+    {
+        "url": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
+        "filename": "tJbzMqJGH4k.mkv",
+        "note": "Grand Theft Auto VI: An Extended Look",
+        "type": "ytdlp"
+    },
+]
+
 def upload(item):
     url = f'https://w.buzzheavier.com/p348490rwt76/{item["filename"]}'#?note={base64.b64encode(item["note"].encode("utf-8")).decode("utf-8")}'
     bzid = f"Authorization: Bearer {args.BUZZHEAVIER_ID}"
