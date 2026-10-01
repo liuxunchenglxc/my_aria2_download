@@ -21,5 +21,5 @@ else
    echo "https://github.com/Brainicism/bgutil-ytdlp-pot-provider"
    curl -s -X POST "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
         -d "chat_id=${TG_CHAT_ID}" \
-        -d "text=⚠️ 插件有新版本了！%0A当前版本: $YT_POT_VERSION%0A最新版本: $LATEST_VERSION"
+        -d "text=有新版本Brainicism/bgutil-ytdlp-pot-provider可用！%0A当前版本: $YT_POT_VERSION%0A最新版本: $LATEST_VERSION%0A修改https://github.com/liuxunchenglxc/my_ytdlp_docker_env中Dockerfile"
 fi
